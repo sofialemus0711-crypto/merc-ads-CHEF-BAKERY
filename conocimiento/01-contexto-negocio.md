@@ -43,6 +43,7 @@ Metas: nov $60M, dic $100M.
 - Los documentos de Drive (ideas de Meta Ads, calendario de agosto, Navidad corporativa) son IDEAS de contenido; varias no se produjeron. No tratarlas como anuncios probados.
 
 ## Foco actual de Meta Ads: Navidad 2026 (empresas)
+FUENTE PRINCIPAL DE PRODUCTOS Y PRECIOS: 04-catalogo-navidad-2026.md (si hay diferencias, manda el catálogo).
 | | Cajita navideña | Cena de fin de año |
 |---|---|---|
 | Precio por unidad (antes de impuestos) | $8.500 | $31.500 |
