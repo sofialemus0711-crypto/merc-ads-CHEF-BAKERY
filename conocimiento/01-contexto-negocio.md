@@ -55,9 +55,18 @@ Metas: nov $60M, dic $100M.
 - Precios en anuncios: siempre aclarar "+ impuestos" o "antes de impuestos".
 - Ningún anuncio de Navidad se ha lanzado: la primera ronda es de aprendizaje.
 
+## Pagos
+- Se aceptan todos los medios de pago.
+- Clientes nuevos: 50 % de anticipo y el otro 50 % tres días antes del evento.
+- Los guiones no prometen "paga al recibir" ni condiciones distintas.
+
+## Competencia (confirmada)
+- Pimienta, Cocinario, Tu San Agustín.
+
 ## Producción y pauta
 - Paula sale a cámara. Se graba con celular.
 - Presupuesto Meta Ads: $900.000 COP al mes.
 
 ## PENDIENTE
+- Elegir regalo sin costo y garantía para la oferta de Navidad (propuestas enviadas nov 2026).
 - Confirmar el perfil de empresa que sí compra sin pedir permiso de sanidad.
