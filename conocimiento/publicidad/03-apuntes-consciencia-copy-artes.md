@@ -36,4 +36,17 @@ Tipos: [P] práctica recomendada · [V] regla práctica por verificar.
 | 2. Testimonios | Credibilidad: clientes, trabajadores, influencers; video, imagen, texto; unboxing | Unboxing de la Cajita Arbolito en una oficina cliente; reseñas reales de Google. |
 | 3. Prensa / autoridad | Premios, personas o marcas con las que se ha trabajado | CCI France; marcas cliente solo con permiso. |
 | 4. Aspiracional | Lo que el cliente quiere ser; producción más cuidada | "La novena que todo el equipo comenta" / el organizador que queda bien. |
-Artes 5 a 10: no aparecen en las fotos (pendiente).
+
+### Artes 5 a 10 (no estaban en los apuntes; completadas con investigación web, nov 2026)
+No se pudo confirmar la lista exacta del curso original. Se eligieron los formatos con más respaldo en las fuentes.
+Evidencia: [A] varias fuentes coinciden · [M] fuente del ecosistema del curso (Felipe Vergara) · [B] una sola fuente.
+| Arte | Qué es | Evidencia | Aplicación C&B |
+|---|---|---|---|
+| 5. Pantalla dividida | Antes vs. después, o tu opción vs. la alternativa, en la misma pantalla | M, A | Novena de gaseosa y galletas vs. novena con cajitas. Sin atacar a competidores con nombre. |
+| 6. Sándwich de testimonios | Varias personas recomendando seguidas | M | 3–4 clientes (CET, Genius, ASPAEN…) en 3 s cada uno, con permiso. |
+| 7. Beneficios | 1–3 beneficios claros, con el producto en pantalla | M | "Llega lista, una por persona, con el logo de tu empresa, con factura." |
+| 8. Problema-solución | El gancho nombra un dolor concreto y la solución llega en segundos | A | "¿Otra novena improvisada?" → cajitas. |
+| 9. Estilo creador (UGC) | Persona real a cámara, sin producción; parece contenido, no anuncio | A | Empleado de una oficina cliente abriendo la Cajita Arbolito con el celular. |
+| 10. Fundadora a cámara | La dueña cuenta algo en primera persona | B | Paula: "Esta semana armamos 300 cajitas; te muestro cómo." |
+Fuentes: felipevergara.co (pantalla dividida, sándwich de testimonios, beneficios), cangrejodigital.com, elevarus.com, adrio.ai, verdemedia.com, clyvert.com, agenciadinamita.com.
+Nota: las afirmaciones de rendimiento de estas fuentes son de agencias, no estudios independientes. Se confirman con nuestras propias pruebas.
