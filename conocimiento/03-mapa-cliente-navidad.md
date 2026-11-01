@@ -1,0 +1,41 @@
+# Mapa del cliente de Navidad 2026 (etapa 2, borrador para validar)
+
+Marcas: [C] confirmado por la empresa · [H] hipótesis (de documentos previos o deducción), validar antes de usar como hecho.
+
+## Qué compra
+- Cajitas navideñas: $8.500 c/u + impuestos, mínimo 10 [C]. Uso principal: novena de la oficina (16–24 dic) [H].
+- Cenas de fin de año: $31.500 por persona + impuestos, mínimo 25, solo comida [C]. Uso: despedida del equipo [H].
+
+## Quién decide (se prueba en la 1.ª ronda)
+- A · Mercadeo / comunicaciones: cuida la imagen de la empresa y la experiencia del evento [H].
+- B · Bienestar / RR. HH. (y asistentes en pymes): responde por el clima del equipo y el presupuesto [H].
+- Tiene que decidir rápido y además de su trabajo normal [H].
+
+## Dolores
+Novena (cajitas)
+- La novena de siempre es improvisada (gaseosa, galletas) y nadie participa [H].
+- Le dan poco presupuesto y esperan que quede bonita [H].
+Despedida (cenas)
+- En diciembre los restaurantes están llenos, caros o lejos para el equipo [H].
+- Coordinar a 25+ personas, fecha y menú es desgastante [H].
+Ambos
+- Miedo a quedar mal con el equipo o con el jefe si el proveedor falla [H].
+
+## Deseos
+- Quedar bien y que el equipo lo disfrute y lo comente [H].
+- Que se vea cuidado y "de empresa", no improvisado [H].
+- Resolver con un solo proveedor y una sola conversación [H].
+- Factura electrónica para la empresa [C, necesidad del cliente corporativo].
+
+## Objeciones
+1. Precio [C]. Respuesta: precio por persona claro, "+ impuestos", mínimos bajos (10 cajitas = $85.000).
+2. Permiso de sanidad [C]. No se menciona en anuncios; si preguntan, se dice la verdad.
+3. "No los conozco / ¿cumplen?" [H, público frío]. Respuesta: 15+ años, 4,9★ con 203 reseñas, clientes reales con permiso.
+4. Equipo de menos de 25 personas no alcanza el mínimo de cenas [C, deducido de la regla].
+5. Esperan servicio completo (meseros, montaje) y la cena es solo comida [H]. Decirlo claro para no generar leads falsos.
+
+## Temperatura del público y momento de compra
+- Caliente: clientes que ya compraron (CET, Genius Sports, ASPAEN y base de datos) → más barato y rápido; mensaje directo de oferta [C clientes, H estrategia].
+- Tibio: interactuaron con Instagram/Facebook o la web → prueba social + oferta.
+- Frío: no conocen la marca → problema reconocible primero, oferta después.
+- Calendario: las empresas definen la despedida entre octubre y mediados de noviembre [H, sin fuente verificada]; la novena es 16–24 dic [C, fecha cultural] → cenas = urgencia ahora; cajitas = más margen.
