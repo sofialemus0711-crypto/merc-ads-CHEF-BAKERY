@@ -28,7 +28,9 @@ Metas: nov $60M, dic $100M.
 
 ## Objeciones reales (por qué no compran)
 1. Precio de los productos.
-2. No tienen permiso de sanidad. REGLA: el agente nunca afirma ni insinúa permisos, registros o certificaciones sanitarias.
+2. No tienen permiso de sanidad. Lo suelen exigir las empresas grandes (compras/proveeduría) y no se puede resolver hoy.
+   REGLA: el agente nunca afirma ni insinúa permisos, registros o certificaciones sanitarias.
+   Implicación: no perseguir procesos formales de compra de grandes corporaciones; hablarle a quien decide directo.
 
 ## Canales
 - Recorrido de compra: Google → web → WhatsApp → cotización.
@@ -38,12 +40,22 @@ Metas: nov $60M, dic $100M.
 ## Trabajo creativo previo
 - Los documentos de Drive (ideas de Meta Ads, calendario de agosto, Navidad corporativa) son IDEAS de contenido; varias no se produjeron. No tratarlas como anuncios probados.
 
-## Foco actual de Meta Ads
-- Navidad 2026: cenas de fin de año y cajitas navideñas para empresas.
+## Foco actual de Meta Ads: Navidad 2026 (empresas)
+| | Cajita navideña | Cena de fin de año |
+|---|---|---|
+| Precio por unidad (antes de impuestos) | $8.500 | $31.500 |
+| Pedido mínimo | 10 unidades | 25 unidades |
+| Pedido mínimo en pesos (calculado) | $85.000 | $787.500 |
+- Cajita: natilla, buñuelo y hojuela (según documento de Navidad; confirmar contenido final).
+- Cena: SOLO la comida. Meseros, montaje y menaje son extra (no prometerlos como incluidos).
+- 24 de diciembre: se aceptan pedidos desde 4 unidades.
+- Anticipación: varía; no prometer tiempos fijos de entrega ni "cotización en 24 h" sin confirmar.
+- Precios en anuncios: siempre aclarar "+ impuestos" o "antes de impuestos".
+- Ningún anuncio de Navidad se ha lanzado: la primera ronda es de aprendizaje.
 
 ## Producción y pauta
 - Paula sale a cámara. Se graba con celular.
 - Presupuesto Meta Ads: $900.000 COP al mes.
 
 ## PENDIENTE
-- Datos Navidad: precios desde, mínimos, servicio incluido, anticipación.
+- Confirmar el perfil de empresa que sí compra sin pedir permiso de sanidad.
