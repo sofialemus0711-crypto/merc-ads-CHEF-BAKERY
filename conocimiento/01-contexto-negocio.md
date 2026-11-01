@@ -18,8 +18,17 @@ Metas: nov $60M, dic $100M.
 
 ## Clientes
 - Principalmente empresas. Decide: RR. HH., bienestar, mercadeo, compras, asistentes de gerencia.
-- Clientes frecuentes: CET, Alcázares, Carrizales, Genius Sports.
+- Clientes frecuentes: CET, Genius Sports y ASPAEN (colegios Alcázares y Carrizales).
+- La mayoría de clientes autoriza mostrar su imagen/evento (confirmar caso a caso antes de publicar).
 - Segmento social (anchetas, mesas, desayunos) existe pero pesa poco.
+
+## Cobertura
+- Solo Medellín, Sabaneta y Las Palmas. A veces contratan empresas de otras ciudades, pero el servicio siempre es en esas zonas.
+- Los anuncios no deben prometer entregas fuera de esa cobertura.
+
+## Objeciones reales (por qué no compran)
+1. Precio de los productos.
+2. No tienen permiso de sanidad. REGLA: el agente nunca afirma ni insinúa permisos, registros o certificaciones sanitarias.
 
 ## Canales
 - Recorrido de compra: Google → web → WhatsApp → cotización.
@@ -29,10 +38,12 @@ Metas: nov $60M, dic $100M.
 ## Trabajo creativo previo
 - Los documentos de Drive (ideas de Meta Ads, calendario de agosto, Navidad corporativa) son IDEAS de contenido; varias no se produjeron. No tratarlas como anuncios probados.
 
+## Foco actual de Meta Ads
+- Navidad 2026: cenas de fin de año y cajitas navideñas para empresas.
+
+## Producción y pauta
+- Paula sale a cámara. Se graba con celular.
+- Presupuesto Meta Ads: $900.000 COP al mes.
+
 ## PENDIENTE
-- Productos prioritarios para Meta Ads.
-- Cobertura geográfica (¿fuera de Medellín?).
-- Objeciones reales de clientes.
-- Clientes que autorizan logo/testimonio.
-- Recursos de producción y presupuesto de pauta.
 - Datos Navidad: precios desde, mínimos, servicio incluido, anticipación.
