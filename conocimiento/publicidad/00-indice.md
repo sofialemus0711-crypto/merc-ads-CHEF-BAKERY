@@ -20,7 +20,8 @@ Investigación de clientes: el método va en la categoría 1; los datos de Chef 
 | # | Material | Fecha | Estado |
 |---|---|---|---|
 | 1 | Conferencia sobre IA y publicidad (transcripción) | nov 2026 | Procesado → 01-conferencia-ia-publicidad.md |
-| 2 | Apuntes de curso Meta Ads (12 fotos de cuaderno) | nov 2026 | Recibido, pendiente de procesar |
+| 2A | Apuntes Meta Ads: mentalidad, investigación, oferta, audiencias | nov 2026 | Procesado → 02-apuntes-investigacion-oferta-audiencias.md |
+| 2B | Apuntes Meta Ads: niveles de consciencia, copy, 10 artes | nov 2026 | Pendiente |
 
 ## Pedidos de la dueña anotados para etapas futuras
 - El agente debe pedir referencias de anuncios que le gusten a la empresa o investigarlas por su cuenta.
