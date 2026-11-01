@@ -19,7 +19,8 @@ Investigación de clientes: el método va en la categoría 1; los datos de Chef 
 ## Materiales procesados
 | # | Material | Fecha | Estado |
 |---|---|---|---|
-| 1 | Conferencia sobre IA y publicidad | — | Pendiente: falta recibir la transcripción |
+| 1 | Conferencia sobre IA y publicidad (transcripción) | nov 2026 | Procesado → 01-conferencia-ia-publicidad.md |
+| 2 | Apuntes de curso Meta Ads (12 fotos de cuaderno) | nov 2026 | Recibido, pendiente de procesar |
 
 ## Pedidos de la dueña anotados para etapas futuras
 - El agente debe pedir referencias de anuncios que le gusten a la empresa o investigarlas por su cuenta.
