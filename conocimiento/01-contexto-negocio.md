@@ -30,6 +30,8 @@ Metas: nov $60M, dic $100M.
 1. Precio de los productos.
 2. No tienen permiso de sanidad. Lo suelen exigir las empresas grandes (compras/proveeduría) y no se puede resolver hoy.
    REGLA: el agente nunca afirma ni insinúa permisos, registros o certificaciones sanitarias.
+   Política de la empresa: transparencia total. Si un cliente pregunta, se le dice que no lo tienen.
+   Los guiones no tocan el tema, pero tampoco usan frases que lo oculten o lo den a entender.
    Implicación: no perseguir procesos formales de compra de grandes corporaciones; hablarle a quien decide directo.
 
 ## Canales
