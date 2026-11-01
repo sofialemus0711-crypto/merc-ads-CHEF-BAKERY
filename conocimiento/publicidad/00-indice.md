@@ -23,6 +23,8 @@ Investigación de clientes: el método va en la categoría 1; los datos de Chef 
 | 2A | Apuntes Meta Ads: mentalidad, investigación, oferta, audiencias | nov 2026 | Procesado → 02-apuntes-investigacion-oferta-audiencias.md |
 | 2B | Apuntes Meta Ads: niveles de consciencia, copy, 10 artes | nov 2026 | Procesado → 03-apuntes-consciencia-copy-artes.md (artes 5–10 completadas con investigación web) |
 | 3 | Carta oficial Delicias navideñas 2026 (PDF) | nov 2026 | Procesado → ../04-catalogo-navidad-2026.md |
+| 4 | Investigación de formatos populares + gusto de la empresa | nov 2026 | Procesado → 04-investigacion-formatos-populares.md |
+| — | Referencias de la empresa (continuo) | — | Ficha lista → 05-referencias.md |
 
 ## Pedidos de la dueña anotados para etapas futuras
 - El agente debe pedir referencias de anuncios que le gusten a la empresa o investigarlas por su cuenta.
