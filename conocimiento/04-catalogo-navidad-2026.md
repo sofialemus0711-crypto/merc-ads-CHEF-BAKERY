@@ -35,5 +35,6 @@ Contacto en la carta: Paula Andrea Carmona Perafán, Directora Comercial. "Pedid
 - Pedido en 3 pasos: Elige → Escríbenos → Disfruta.
 
 ## Oferta
-- Cajita Arbolito: incluye sticker de marca (aprobado nov 2026).
+- Cajita Arbolito: incluye sticker con el logo de Chef & Bakery (NO es personalizado con el logo del cliente; no prometer personalización).
+- En anuncios: "desde" + precio inicial (ej. cenas servidas desde $31.500, cajitas desde $8.500) + impuestos.
 - Garantía: PENDIENTE (la empresa la define).

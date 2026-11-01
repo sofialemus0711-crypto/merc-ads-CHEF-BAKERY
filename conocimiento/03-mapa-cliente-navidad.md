@@ -3,7 +3,7 @@
 Marcas: [C] confirmado por la empresa · [H] hipótesis (de documentos previos o deducción), validar antes de usar como hecho.
 
 ## Qué compra
-- Cajitas navideñas: $8.500 c/u + impuestos, mínimo 10 [C]. Usos: novena de la oficina (16–24 dic) [H] y regalo de la empresa a clientes o colaboradores [H, la dueña cree que sí].
+- Cajitas navideñas: $8.500 c/u + impuestos, mínimo 15 [C]. Usos: novena de la oficina (16–24 dic) [H] y regalo de la empresa a clientes o colaboradores [H, la dueña cree que sí].
 - En 2025 se vendieron cajitas y cenas, sobre todo cajitas [C] → producto principal de la campaña: cajitas; cenas en segundo lugar.
 - Cenas de fin de año: $31.500 por persona + impuestos, mínimo 25, solo comida [C]. Uso: despedida del equipo [H].
 

@@ -47,13 +47,13 @@ FUENTE PRINCIPAL DE PRODUCTOS Y PRECIOS: 04-catalogo-navidad-2026.md (si hay dif
 | | Cajita navideña | Cena de fin de año |
 |---|---|---|
 | Precio por unidad (antes de impuestos) | $8.500 | $31.500 |
-| Pedido mínimo | 10 unidades | 25 unidades |
-| Pedido mínimo en pesos (calculado) | $85.000 | $787.500 |
+| Pedido mínimo | 15 unidades | 25 unidades |
+| Pedido mínimo en pesos (calculado) | $127.500 | $787.500 (menú Campanita) |
 - Cajita: natilla, buñuelo y hojuela (según documento de Navidad; confirmar contenido final).
 - Cena: SOLO la comida. Meseros, montaje y menaje son extra (no prometerlos como incluidos).
-- 24 de diciembre: se aceptan pedidos desde 4 unidades.
+- Cena al vacío para familias: desde 4 unidades, solo 7 y 24 de diciembre (ver catálogo).
 - Anticipación: varía; no prometer tiempos fijos de entrega ni "cotización en 24 h" sin confirmar.
-- Precios en anuncios: siempre aclarar "+ impuestos" o "antes de impuestos".
+- Precios en anuncios: "desde" + el precio inicial del producto, y aclarar "+ impuestos" o "antes de impuestos".
 - Ningún anuncio de Navidad se ha lanzado: la primera ronda es de aprendizaje.
 
 ## Pagos
