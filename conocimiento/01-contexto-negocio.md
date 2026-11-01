@@ -69,5 +69,4 @@ FUENTE PRINCIPAL DE PRODUCTOS Y PRECIOS: 04-catalogo-navidad-2026.md (si hay dif
 - Presupuesto Meta Ads: $900.000 COP al mes.
 
 ## PENDIENTE
-- Elegir regalo sin costo y garantía para la oferta de Navidad (propuestas enviadas nov 2026).
 - Confirmar el perfil de empresa que sí compra sin pedir permiso de sanidad.

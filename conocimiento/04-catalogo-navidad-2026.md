@@ -37,4 +37,7 @@ Contacto en la carta: Paula Andrea Carmona Perafán, Directora Comercial. "Pedid
 ## Oferta
 - Cajita Arbolito: incluye sticker con el logo de la EMPRESA QUE LA PIDE (personalización sin costo adicional). Argumento clave para mercadeo y para regalo a clientes.
 - En anuncios: "desde" + precio inicial (ej. cenas servidas desde $31.500, cajitas desde $8.500) + impuestos.
-- Garantía: PENDIENTE (la empresa la define).
+- Garantías aprobadas (nov 2026):
+  1. Fecha asegurada: al pagar el anticipo (50 % clientes nuevos), la fecha queda reservada aunque se llene la agenda.
+  2. Cuentas exactas: si falta una cajita o una porción, se repone sin costo.
+- NO se garantiza puntualidad con compensación (no aprobada). No inventar otras garantías.
