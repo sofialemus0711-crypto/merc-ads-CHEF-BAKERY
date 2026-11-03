@@ -24,3 +24,6 @@
 18. Humor — límites obligatorios: nunca burlarse de clientes; nunca mostrar situaciones que generen desconfianza del servicio de C&B (retrasos, comida que falla, errores, faltantes). El chiste está en la situación cotidiana de oficina, nunca en el cliente ni en la calidad.
     Nivel de humor por defecto: amable de oficina y memes del momento; nada de doble sentido (ajustable por la empresa).
 19. Ejemplos de los guiones son hipotéticos hasta que se llenen con datos reales (cantidades, horas, clientes, reseñas).
+20. Competencia: contraste indirecto permitido ("el catering de siempre"); nunca nombres, logos ni marcas reconocibles.
+21. Prohibida la mediocridad: todo guion se entrega con su base de investigación y su porqué (ver publicidad/08, G1).
+22. Prohibido que parezca hecho por IA: lenguaje orgánico, hablado, paisa natural; pasar la prueba de organicidad (publicidad/08, G3).

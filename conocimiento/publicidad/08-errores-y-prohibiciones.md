@@ -1,4 +1,4 @@
-# Errores creativos y prohibiciones (PROPUESTA — pendiente de decisión de la empresa)
+# Errores creativos y prohibiciones (DECIDIDO 3 nov 2026; clasificación A–E por confirmar)
 Estado: cada punto es "propuesto". La empresa decide cuáles son PROHIBICIÓN (regla obligatoria) y cuáles RECOMENDACIÓN.
 Ya obligatorias por decisiones anteriores (no se discuten aquí): sanidad, cobertura, envío gratis, humor con clientes y fallas, comida 100 % IA, garantías no aprobadas.
 
@@ -32,5 +32,20 @@ E3. Texto ilegible o fuera de las zonas seguras de Reels.
 E4. Música con derechos de autor fuera de la biblioteca de Meta.
 E5. Superproducción fría que parece comercial de televisión (para público frío).
 
-## F. Competencia
-F1. Atacar o nombrar competidores de forma negativa.
+## F. Competencia (decisión de la empresa)
+F1. SE PUEDE contrastar con la competencia de forma INDIRECTA: "el catering de siempre", "lo típico de diciembre". NUNCA nombres, logos ni marcas reconocibles.
+F2. El contraste nunca puede confundirse con C&B ni mostrar a C&B fallando.
+
+## G. Decisiones de la empresa (obligatorias)
+G1. PROHIBIDA LA MEDIOCRIDAD: todo guion debe estar bien analizado e investigado. Cada guion se entrega con su base: de dónde sale el insight (reseñas, mapa del cliente, referencias, datos de la empresa), público, nivel de consciencia, por qué ese gancho y qué se espera medir.
+G2. PROHIBIDO QUE PAREZCA HECHO POR IA (incluye B3). Debe sentirse orgánico.
+G3. Prueba de organicidad antes de entregar:
+   - ¿Una persona real de Medellín lo diría así en voz alta?
+   - ¿Suena a conversación, no a folleto?
+   - ¿Alguien de una oficina lo compartiría en el chat del trabajo?
+   - ¿Tiene detalles concretos y reales (lugares, situaciones, productos) en vez de adjetivos?
+   - ¿Quitaría alguna palabra "bonita" que nadie usa al hablar?
+
+## Clasificación propuesta (confirmar)
+- PROHIBICIÓN: A1–A3, B1–B4, C1–C2, D1–D3, E1–E2, F2, G1–G3.
+- RECOMENDACIÓN: D4–D6, E3–E5.
