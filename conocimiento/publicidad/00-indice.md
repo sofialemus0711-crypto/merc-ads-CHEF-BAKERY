@@ -32,4 +32,4 @@ Investigación de clientes: el método va en la categoría 1; los datos de Chef 
 - El agente debe tener estructuras prohibidas y poder pedirlas a la empresa.
 - Referentes, reglas de juego y Master Prompt (etapas finales).
 
-| 6 | Biblioteca de estructuras de guion (borrador) | 3 nov 2026 | 07-biblioteca-estructuras.md — pendiente de aprobación |
+| 6 | Biblioteca de estructuras de guion (borrador) | 3 nov 2026 | 07-biblioteca-estructuras.md — APROBADA (18 estructuras) |

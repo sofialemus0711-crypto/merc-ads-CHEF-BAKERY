@@ -1,4 +1,4 @@
-# Biblioteca de estructuras de guion (borrador para aprobar, nov 2026)
+# Biblioteca de estructuras de guion (APROBADA por la empresa, 3 nov 2026)
 
 Cada estructura tiene un MECANISMO distinto (por qué funciona), no solo otro orden de escenas.
 Temperatura: F = frío · T = tibio · C = caliente/clientes. Nivel de consciencia: 1 inconsciente · 2 problema · 3 solución · 4 producto · 5 decisión.
@@ -23,6 +23,15 @@ Origen: marcos clásicos de copywriting (PAS, antes/después, AIDA), apuntes del
 | 14 | Oferta directa con urgencia real | Claridad + motivo real para decidir ya | Clientes y tibios | C / 5 | Rac | "Navidad 2026: cajitas desde $8.500 + impuestos. Fecha asegurada con anticipo. Escríbenos." |
 | 15 | Reactivación "ya nos conoces" | Asume la relación; presenta lo nuevo | Clientes anteriores (CET, Genius, ASPAEN, base de datos) | C / 5 | Emo/Rac | "Ya conoces nuestro sabor: este año llegó la Cajita Arbolito con el logo de tu empresa." |
 | 16 | Curiosidad / revelación | Abre una pregunta que solo se responde viendo hasta el final | Frío; retención | F / 1 | Emo | "Esta caja hizo que todos en la oficina preguntaran quién la pidió…" → revelación del contenido y el logo. |
+
+| 17 | Enseñanza / video educativo | Da valor útil antes de vender; posiciona como experto | Frío y tibio; búsquedas de "cómo hacer" | F-T / 2-3 | Rac | Paula: "¿Cuántos bocados por persona para una reunión de 2 horas?" o "Cómo organizar la novena de la oficina en 30 minutos". |
+| 18 | Vitrina de producto (producto protagonista) | Deseo visual: el producto se ve tan bien que se antoja | Productos muy visuales; recordación | F-T-C / 3-4 | Emo | Planos cerrados y lentos de la mesa de bocados, la Cajita Arbolito o la Caja Adonai, con luz natural. |
+
+## Recursos transversales aprobados (se pueden usar en cualquier estructura)
+- ASMR: sonido real de la comida (crujir, partir, servir).
+- Mostrar el producto con claridad.
+- Contenido que genera confianza: proceso real, cocina, equipo, cumplimiento, reseñas, garantías aprobadas.
+  Límite: mostrar orden y limpieza está bien; NO afirmar ni insinuar permisos o certificaciones sanitarias (regla 3).
 
 ## Notas de uso
 - Enfoque emocional vs racional no es una estructura aparte: es el tono de cada una (columna "Tono").
