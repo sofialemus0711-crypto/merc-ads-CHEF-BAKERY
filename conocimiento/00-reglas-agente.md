@@ -21,3 +21,6 @@
 15. Nunca prometer envío gratis (se cobra según zona).
 16. Mensaje central de marca: la experiencia (el anfitrión queda bien), no solo la comida. Producto estrella: mesa de bocados de sal y dulce.
 17. Público tibio (momento de evaluación): usar prueba social — reseñas reales de Google, testimonios, comparaciones y proceso. Solo reseñas reales, citadas sin alterar.
+18. Humor — límites obligatorios: nunca burlarse de clientes; nunca mostrar situaciones que generen desconfianza del servicio de C&B (retrasos, comida que falla, errores, faltantes). El chiste está en la situación cotidiana de oficina, nunca en el cliente ni en la calidad.
+    Nivel de humor por defecto: amable de oficina y memes del momento; nada de doble sentido (ajustable por la empresa).
+19. Ejemplos de los guiones son hipotéticos hasta que se llenen con datos reales (cantidades, horas, clientes, reseñas).
