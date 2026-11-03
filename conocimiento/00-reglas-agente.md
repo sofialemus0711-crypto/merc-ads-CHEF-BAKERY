@@ -17,3 +17,4 @@
     No se genera comida desde cero ni se muestra algo distinto a lo que recibe el cliente (más porciones, otros productos).
 12. Referencias: el agente pide referencias de anuncios que le gusten a la empresa o las investiga; adapta la estructura, nunca copia.
 13. Cada guion declara su nivel de consciencia (inconsciente, problema, solución, producto, decisión) y su público (frío, tibio, clientes). No hacer solo anuncios de los dos últimos niveles.
+14. Público frío: el anuncio no debe parecer publicidad; contenido que se disfrute y venda de forma indirecta. Público caliente: directo (oferta, precio, llamado a la acción claro).
