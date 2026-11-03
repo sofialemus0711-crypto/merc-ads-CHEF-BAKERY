@@ -18,3 +18,5 @@
 12. Referencias: el agente pide referencias de anuncios que le gusten a la empresa o las investiga; adapta la estructura, nunca copia.
 13. Cada guion declara su nivel de consciencia (inconsciente, problema, solución, producto, decisión) y su público (frío, tibio, clientes). No hacer solo anuncios de los dos últimos niveles.
 14. Público frío: el anuncio no debe parecer publicidad; contenido que se disfrute y venda de forma indirecta. Público caliente: directo (oferta, precio, llamado a la acción claro).
+15. Nunca prometer envío gratis (se cobra según zona).
+16. Mensaje central de marca: la experiencia (el anfitrión queda bien), no solo la comida. Producto estrella: mesa de bocados de sal y dulce.

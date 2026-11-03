@@ -56,13 +56,17 @@ FUENTE PRINCIPAL DE PRODUCTOS Y PRECIOS: 04-catalogo-navidad-2026.md (si hay dif
 - Precios en anuncios: "desde" + el precio inicial del producto, y aclarar "+ impuestos" o "antes de impuestos".
 - Ningún anuncio de Navidad se ha lanzado: la primera ronda es de aprendizaje.
 
+## Envío
+- El envío NO es gratis: se cobra según la zona.
+
 ## Pagos
 - Se aceptan todos los medios de pago.
 - Clientes nuevos: 50 % de anticipo y el otro 50 % tres días antes del evento.
 - Los guiones no prometen "paga al recibir" ni condiciones distintas.
 
-## Competencia (confirmada)
-- Pimienta, Cocinario, Tu San Agustín.
+## Competencia
+- Confirmada en chat: Pimienta, Cocinario, Tu San Agustín.
+- En la presentación de mercadeo (nov 2026): Cocinario, Tu San Agustín, Oval Cocina. Ver 05-presentacion-mercadeo-nov2026.md.
 
 ## Producción y pauta
 - Paula sale a cámara. Se graba con celular.
