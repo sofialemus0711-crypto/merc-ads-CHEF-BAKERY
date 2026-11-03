@@ -29,3 +29,7 @@ Cada vez que la empresa envíe un video, el agente lo registra aquí con esta fi
 | R3 | https://www.facebook.com/ads/library/?id=2441336533273561 | Pendiente (sin acceso a facebook.com) |
 | R4 | https://www.instagram.com/reel/De-dnlxTvuM/ | Pendiente (sin acceso a instagram.com) |
 | R5 | https://www.tiktok.com/t/ZS9y7gpM5B87d-JDGcD/ | Pendiente (sin acceso a tiktok.com) |
+| R6 | Video WhatsApp: antes/después de edición (@santi.visual_) | Analizado → 06-analisis-referencias-y-tendencias.md |
+| R7 | Video WhatsApp: Whey vs ISO (@sinintermediarios) | Analizado |
+| R8 | Video WhatsApp: sketch "te alcanza hasta para la gallina" (@sinintermediarios) | Analizado |
+| R9 | Video WhatsApp: presentación de equipo (@zelecto.marketing) | Analizado |
