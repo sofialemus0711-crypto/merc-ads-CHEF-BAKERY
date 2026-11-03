@@ -20,3 +20,4 @@
 14. Público frío: el anuncio no debe parecer publicidad; contenido que se disfrute y venda de forma indirecta. Público caliente: directo (oferta, precio, llamado a la acción claro).
 15. Nunca prometer envío gratis (se cobra según zona).
 16. Mensaje central de marca: la experiencia (el anfitrión queda bien), no solo la comida. Producto estrella: mesa de bocados de sal y dulce.
+17. Público tibio (momento de evaluación): usar prueba social — reseñas reales de Google, testimonios, comparaciones y proceso. Solo reseñas reales, citadas sin alterar.

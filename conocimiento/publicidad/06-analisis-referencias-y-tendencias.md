@@ -49,6 +49,6 @@ Evidencia: blogs de agencias y rastreadores de tendencias; tomar como dirección
 | Público | Qué está funcionando | Para C&B |
 |---|---|---|
 | Frío | Storytime a cámara; series por episodios y "sitcoms de marca" (incluido humor de oficina); POV sin etiqueta; sketches de situación; Reels con mucho texto y poca voz; gancho en los primeros 2 s; cortes cada 2–5 s; narrativa local de 15–30 s. Más contenido de arriba del embudo (historias, ganchos, UGC) y menos fotos de producto. | Serie "La novena de la oficina" por capítulos; sketches tipo R8; POV del organizador. |
-| Tibio | Comparaciones educativas, demostración y proceso, contenido de la fundadora, testimonios. | Formato R7; proceso con sonido real; Paula contando un pedido real. |
+| Tibio (evaluación) | Comparaciones educativas, demostración y proceso, contenido de la fundadora, testimonios y RESEÑAS [C: confirmado por la empresa]. | Formato R7; proceso con sonido real; Paula contando un pedido real; reseñas reales de Google (4,9★, 203) leídas o mostradas en pantalla, idealmente con el producto o evento al que se refieren. |
 | Caliente | Oferta directa, demostración, testimonio/UGC (se siente nativo y respalda), recordatorios; el cansancio creativo es mayor aquí: rotar piezas. | "Desde $8.500 + impuestos", fecha asegurada, cuentas exactas, Cajita Arbolito con tu logo. |
 - Matiz: con Advantage+ Meta mezcla públicos fríos, tibios y calientes; la separación no es perfecta. Probar, no asumir.
