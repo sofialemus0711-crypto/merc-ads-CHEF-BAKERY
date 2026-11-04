@@ -1,4 +1,4 @@
-# Etapa 4 · Bloque 2: bitácora de resultados y aprendizaje (BORRADOR)
+# Etapa 4 · Bloque 2: bitácora de resultados y aprendizaje (APROBADO 4 nov 2026)
 
 Objetivo: que cada anuncio enseñe algo al siguiente. El agente consulta esta bitácora ANTES de escribir guiones nuevos.
 
@@ -39,3 +39,9 @@ Nunca se borra un aprendizaje: si se contradice, se marca y se explica.
 ## 5. Plantilla de registro
 | Código | Fechas | Producto | Público | Etapa | Estructura | Gancho | Gasto | Tasa gancho | Retención | CTR | Conversaciones | Costo/conv. | Cotizaciones | Ventas | Valor | Aprendizaje | Confianza |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+## 6. Decisiones de la empresa
+- Sí se registrará en el Centro de Control cuando un cliente llega por un anuncio: opción "Meta Ads" en "¿Cómo se enteró?" + columna con el código/nombre del anuncio.
+- El WhatsApp lo responde la mamá de Sofía: ella pregunta o anota de dónde viene cada contacto.
+- Revisión de resultados con el agente: una vez por semana.
+- Pendiente a futuro: la empresa quiere crear un CRM. Cuando exista, la bitácora se conecta a él (no se construye en esta etapa).
