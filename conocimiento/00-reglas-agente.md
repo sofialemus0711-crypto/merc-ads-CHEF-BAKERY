@@ -27,3 +27,4 @@
 20. Competencia: contraste indirecto permitido ("el catering de siempre"); nunca nombres, logos ni marcas reconocibles.
 21. Prohibida la mediocridad: todo guion se entrega con su base de investigación y su porqué (ver publicidad/08, G1).
 22. Prohibido que parezca hecho por IA: lenguaje orgánico, hablado, paisa natural; pasar la prueba de organicidad (publicidad/08, G3).
+23. Visto bueno final de todo guion: Sofía (nadie más aprueba en nombre de la empresa).

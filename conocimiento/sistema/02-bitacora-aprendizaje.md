@@ -1,0 +1,41 @@
+# Etapa 4 · Bloque 2: bitácora de resultados y aprendizaje (BORRADOR)
+
+Objetivo: que cada anuncio enseñe algo al siguiente. El agente consulta esta bitácora ANTES de escribir guiones nuevos.
+
+## 1. Qué se registra por anuncio
+Identificación: código del anuncio · fecha de inicio y fin · producto · público (frío/tibio/caliente) · etapa del ciclo de ventas · estructura (# de la biblioteca) · gancho exacto · formato y duración · presupuesto gastado.
+
+Métricas de Meta (el agente puede leerlas de la cuenta con el conector de Meta Ads):
+| Métrica | Qué dice |
+|---|---|
+| Tasa de gancho = reproducciones de 3 s ÷ impresiones | ¿El gancho detiene el scroll? |
+| Retención (reproducciones completas / ThruPlay) | ¿El contenido sostiene la atención? |
+| CTR | ¿Dan ganas de dar clic? |
+| Conversaciones iniciadas y costo por conversación | ¿Escriben por WhatsApp? |
+| Frecuencia | ¿Se está cansando el público? |
+
+Resultados del negocio (los registra la empresa en el Centro de Control):
+conversaciones con empresas reales · cotizaciones enviadas · ventas cerradas · valor vendido.
+
+## 2. Cómo se lee (diagnóstico por etapa)
+| Si pasa esto… | El problema probable está en… | El siguiente guion cambia… |
+|---|---|---|
+| Tasa de gancho baja | Gancho | Solo el inicio (misma pieza, 3 ganchos) |
+| Ganchan pero se van rápido | Contenido | El desarrollo / la estructura |
+| Lo ven pero no escriben | Llamado a la acción u oferta | CTA, oferta, prueba |
+| Escriben pero no son empresas o no cotizan | Público o mensaje que no filtra | Filtro (precio "desde", "para empresas") |
+| Cotizan pero no compran | Proceso comercial o precio (no el anuncio) | Se informa; no se culpa al guion |
+
+## 3. Nivel de confianza de cada aprendizaje (propuesta, ajustable)
+- Baja: menos de 7 días o pocas conversaciones (menos de 10). Es una pista, no una regla.
+- Media: 7+ días y 10+ conversaciones con resultado consistente.
+- Alta: el mismo resultado se repite en 2 o más rondas.
+Con $900.000/mes, casi todo empezará en confianza baja: no convertir un resultado aislado en regla.
+
+## 4. Formato de cada aprendizaje
+Qué probamos → qué pasó (con números) → qué creemos que significa → confianza → qué hacemos distinto.
+Nunca se borra un aprendizaje: si se contradice, se marca y se explica.
+
+## 5. Plantilla de registro
+| Código | Fechas | Producto | Público | Etapa | Estructura | Gancho | Gasto | Tasa gancho | Retención | CTR | Conversaciones | Costo/conv. | Cotizaciones | Ventas | Valor | Aprendizaje | Confianza |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
