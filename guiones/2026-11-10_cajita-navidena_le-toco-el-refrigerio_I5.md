@@ -1,4 +1,4 @@
-# Brief de imagen · "Le tocó el refrigerio" · NAV26-CAJ-I5-A · BORRADOR (pendiente de evaluador)
+# Brief de imagen · "Le tocó el refrigerio" · NAV26-CAJ-I5-A · BORRADOR v2 (corregido tras evaluación 1: no pasó con 3,97; pendiente 2.ª revisión)
 Concepto #5 aprobado por Sofía el 10 nov 2026 (guiones/2026-11-10_navidad_conceptos-ronda2-frio.md). Formato de publicidad/10-anuncios-de-imagen.md. Escrito por el guionista. [REEMPLAZAR] = dato por confirmar. Hipótesis a probar (bitácora vacía).
 
 ## 1. Ficha
@@ -16,42 +16,44 @@ Concepto #5 aprobado por Sofía el 10 nov 2026 (guiones/2026-11-10_navidad_conce
 Corrección frente al concepto: el chat tiene dos fechas (mar 1 dic → jue 17 dic) para no insinuar entrega de un día para otro (no hay tiempos de entrega confirmados).
 
 ## 2. Texto en la imagen
-Encabezado fijo: **Novena oficina 🎄** · "14 participantes" · avatar lila con estrellita o iniciales "NO" (nunca logo real).
+Encabezado fijo: **Novena oficina 🎄** · "18 participantes" (nunca menos de 15; en la versión C también 18: los de bodega no están en el grupo) · avatar lila con estrellita o iniciales "NO" (nunca logo real).
 
 ### Versión A (principal)
 | Quién | Burbuja | Hora |
 |---|---|---|
 | Separador | Martes 1 de dic. | |
-| Jefe Carlos | Recuerden: el refrigerio de la novena del jueves 17 le toca a Juli | 9:14 a. m. |
+| Jefe Carlos | El refrigerio de la novena del 17 le toca a Juli | 9:14 a. m. |
 | Juli | ¿Yo? | 9:15 a. m. |
 | Separador | Jueves 17 de dic. | |
 | Juli | [FOTO REAL de las cajitas] Listo. Una por persona. | 3:02 p. m. |
-| Andrés Conta | Juli presidenta | 3:03 p. m. |
 | Caro | ¿Y esa natilla de dónde es? | 3:03 p. m. |
+| Juli | De Chef & Bakery | 3:04 p. m. |
+
+Estático 4:5: solo estas burbujas (una reacción + respuesta de Juli) para que quepa. "Juli presidenta" se usa en el carrusel o en una variante.
 
 ### Versión B ("no sé hacer ni un huevo")
 Mar 1 dic · Jefe Carlos: "La novena del jueves 17 la dirige Juli, con refrigerio y todo" · Juli: "¿Yo? Si yo no sé hacer ni un huevo" · Jue 17 dic · Juli: [FOTO REAL] "Llegaron. Una para cada uno" · Caro: "Ay no, Juli se lució" · Jefe Carlos: "Juli, ¿usted se le mide también a la del 23?"
 
 ### Versión C ("las cuentas")
-Mar 1 dic · Jefe Carlos: "¿A quién le toca el refrigerio de la novena del 17?" · Mafe: "A Juli 👀" · Juli: "Somos como 20, ¿cierto?" · Jefe Carlos: "22 con los de bodega" · Jue 17 dic · Juli: [FOTO REAL] "22 cajitas. Contadas." · Andrés Conta: "Hasta los de bodega alcanzaron"
+Mar 1 dic · Jefe Carlos: "¿A quién le toca el refrigerio de la novena del 17?" · Mafe: "A Juli 👀" · Juli: "Somos como 20, ¿cierto?" · Jefe Carlos: "22 con los de bodega" · Jue 17 dic · Juli: [FOTO REAL con exactamente 22 cajitas] "22 cajitas. Contadas." (si la foto no tiene 22, el texto pasa a "Listo. Contadas.") · Andrés Conta: "Hasta los de bodega alcanzaron"
 
 Emojis: máximo 🎄 en el grupo + uno por versión. Personajes en "usted"/neutro; texto del anuncio en "tú" [confirmar con Sofía].
 
 ### Pie (igual en A, B, C)
-- **La novena de la oficina, resuelta.**
+- **Si te toca el refrigerio, ya sabes qué llevar.**
 - **Cajita Navideña desde $8.500 + impuestos · mínimo 15**
 - (pequeño) Chat recreado · cajitas reales · Medellín, Sabaneta y Las Palmas
 - Monograma C&B a la derecha.
-Titulares alternos: "Si te toca el refrigerio, ya sabes qué llevar." · "Una cajita por persona y quedas bien con todos."
+Titulares alternos: "La novena de la oficina, resuelta." · "Una cajita por persona y quedas bien con todos."
 
 ## 3. Dirección visual
 - Chat genérico con colores C&B, NO copia de WhatsApp (sin logo, chulitos azules ni barra de escribir): se nota la recreación y se evita confusión/rechazo [lectura].
 - Paleta 60/25/10/5: beige/marfil fondo y pie · oliva burbujas de Juli y titular · lila nombres, avatar y separadores · carbón/taupe textos. Demás burbujas marfil claro con borde taupe fino. [REEMPLAZAR: HEX del manual 2026]
-- Tipografía: Poppins (burbujas, nombres, horas) · Cormorant Garamond SemiBold (titular del pie). Mínimos a 1080 px: burbujas 36, nombres 26, horas 22, titular 52–58, precio 32, línea pequeña 22–24. Si no cabe, se quita una burbuja.
+- Tipografía: Poppins (burbujas, nombres, horas) · Cormorant Garamond SemiBold (titular del pie). Mínimos a 1080 px: burbujas 36, nombres 26, horas 22, titular 52–58, precio ≥ 40, línea "Chat recreado…" ≥ 26. Si no cabe, se quita una burbuja.
 - La foto real pesa ≥ 40 % del área (≥ 35 % en versión C).
-- 4:5: 0–130 encabezado · 130–1090 mensajes (foto ~760 px, a la derecha) · 1090–1350 pie. Margen lateral ≥ 64 px.
-- 9:16: 0–250 libre · 250–380 encabezado · 380–1450 mensajes · 1450–1620 pie · 1620–1920 libre.
-- Carrusel: T1 encabezado + jefe + "¿Yo?" + "Juli está escribiendo…" + "Desliza →" · T2 foto + reacciones + pie. Títulos: "Le tocó a Juli" / "Cajita Navideña · desde $8.500 + imp.".
+- 4:5: 0–130 encabezado · 130–1090 mensajes: separador 1 dic → jefe → "¿Yo?" → separador 17 dic → foto (~600–650 px de alto) con "Listo. Una por persona." → "¿Y esa natilla de dónde es?" → "De Chef & Bakery" · 1090–1350 pie. Si no cabe, se quita una burbuja, nunca se achica la letra. Margen lateral ≥ 64 px.
+- 9:16: 0–250 libre · 250–380 encabezado · 380–1360 mensajes · 1360–1530 pie · 1530–1920 libre (zona del botón de historias; referencia general de Meta).
+- Carrusel: T1 encabezado + jefe + "¿Yo?" + "Juli está escribiendo…" + "Desliza →" · T2 foto + "Juli presidenta" + "¿Y esa natilla de dónde es?" + "De Chef & Bakery" + pie. Títulos: "Le tocó a Juli" / "Cajita Navideña · desde $8.500 + impuestos".
 
 ## 4. Foto real (celular)
 - 15–20 Cajitas Navideñas en filas sobre mesa de oficina; una abierta al frente (natilla, buñuelo, hojuela); mano con manga de camisa. Librito de la novena, post-its, pocillo liso, esquina de portátil sin logos.
@@ -62,10 +64,11 @@ Titulares alternos: "Si te toca el refrigerio, ya sabes qué llevar." · "Una ca
 
 ## 5. Texto del anuncio (tú)
 **Principal V1 (largo):**
-En diciembre, en casi todas las oficinas pasa lo mismo: la novena se reparte por días y a cada uno le toca llevar el refrigerio.
+Diciembre en la oficina: sale la lista de la novena y te toca el refrigerio.
 Si este año te toca a ti, no tienes que ponerte a fritar buñuelos la noche anterior ni salir corriendo a la panadería a las 7 de la mañana.
 La Cajita Navideña trae natilla, buñuelo y hojuela (o natilla y dos buñuelos). Llega lista para repartir, una por persona.
 Desde $8.500 + impuestos, pedido mínimo de 15. Entregamos en Medellín, Sabaneta y Las Palmas (el domicilio se cobra según la zona).
+Somos Chef & Bakery, en Belén: 4,9★ en Google con 203 reseñas.
 La novena va del 16 al 24 de diciembre. Escríbenos por WhatsApp, dinos cuántos son y qué día te toca, y te ayudamos con las cuentas.
 
 **Principal V2 (corto, con garantía):**
@@ -74,7 +77,7 @@ Natilla, buñuelo y hojuela, hechos en nuestra cocina de Belén. Desde $8.500 + 
 Si falta una cajita, la reponemos sin costo. Y con el anticipo, tu fecha queda apartada.
 Escríbenos por WhatsApp con el día de tu novena.
 
-**Título:** Si te toca el refrigerio de la novena (alterno: Cajita Navideña · desde $8.500 + imp.)
+**Título:** Si te toca el refrigerio de la novena (alterno: Cajita Navideña · desde $8.500 + impuestos)
 **Botón:** Enviar mensaje (WhatsApp) · mensaje sugerido: "Hola, me tocó el refrigerio de la novena. ¿Me ayudan con cajitas para ___ personas?"
 
 ## 6. Base de investigación
@@ -84,10 +87,13 @@ Escríbenos por WhatsApp con el día de tu novena.
 - Formato chat no parece anuncio: publicidad/10 I7; regla 14; estructura #3.
 - Fechas: investigación "Fechas dic 2026"; no prometer tiempos fijos (01-contexto).
 - Precio, mínimo, contenido, garantías: 04-catálogo. Cobertura y domicilio: 01-contexto, reglas 4 y 15. Producción en Belén: 01-contexto.
-- Límite: no hay frases textuales de clientes; revisar WhatsApp 2025.
+- 4,9★ con 203 reseñas en Google (01-contexto, dato oct 2026) [Dato].
+- Límite: no hay frases textuales de clientes; revisar WhatsApp 2025. Falta el enlace exacto del artículo de Semana.
+- Hipótesis para la bitácora: quien escribe puede ser un empleado que paga de su bolsillo; leer costo por conversación contra cotizaciones reales.
 
-## 7. Autocalificación del guionista
-Gancho 4 · contenido 4 · ajuste 5 · organicidad 4 · confianza 3 · llamado 4 · producible 5 → 4,07.
+## 7. Calificación
+- Autocalificación del guionista: 4,07.
+- Evaluación 1 (evaluador): NO PASA, 3,97 (14 participantes < mínimo 15; "+ imp."; maqueta 4:5 no cabía; letra pequeña; zona segura 9:16). Cambios obligatorios 1–7 aplicados en v2, más opcionales: titular hablado, primera línea V1, 4,9★ / 203 reseñas, "De Chef & Bakery" en el chat.
 
 ## 8. Qué se mide
 CTR de enlace, conversaciones por WhatsApp, costo por conversación; compartidos y etiquetas a compañeros; pruebas A vs B vs C, estático vs carrusel, V1 vs V2 (una variable a la vez); cotizaciones y ventas NAV26-CAJ-I5-* cruzadas con el Centro de Control.
