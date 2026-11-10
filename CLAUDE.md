@@ -30,6 +30,7 @@ Orden de consulta:
    - `07-biblioteca-estructuras.md`: las 18 estructuras aprobadas.
    - `08-errores-y-prohibiciones.md`: prohibiciones y prueba de organicidad.
    - `05-referencias.md` y `06-analisis-referencias-y-tendencias.md`: gusto de la empresa y tendencias.
+   - `09-metricas-meta-ads-para-guiones.md`: cómo leer las métricas para mejorar los videos.
 6. `conocimiento/sistema/01-evaluacion-guiones.md`: cómo calificar antes de entregar.
 7. `conocimiento/bitacora/registro.md`: qué ha funcionado y qué no. **Consúltala siempre antes de proponer**; no empieces de cero si ya hay aprendizajes.
 
@@ -78,7 +79,7 @@ Si Sofía no lo especifica, propón tú un brief razonable basado en la memoria 
 7. Calificación y qué se espera medir.
 8. Código del anuncio para la bitácora (ej. `NAV26-CAJ-01-A`).
 
-**Paso 6 · Aprendizaje** (`analista-creativo`, una vez por semana o cuando Sofía lo pida). Lee las métricas, cruza con el Centro de Control, diagnostica (gancho, contenido, llamado a la acción, público o proceso comercial) y actualiza la bitácora. Las conclusiones alimentan el siguiente pedido.
+**Paso 6 · Aprendizaje** (`analista-creativo`, una vez por semana con una tarea programada, o cuando Sofía lo pida; informe en `informes/`). Lee las métricas, cruza con el Centro de Control, diagnostica (gancho, contenido, llamado a la acción, público o proceso comercial) y actualiza la bitácora. Las conclusiones alimentan el siguiente pedido.
 
 ## 6. Reglas que nunca se rompen (resumen; detalle en `00-reglas-agente.md`)
 - Nunca afirmar ni insinuar permisos o certificaciones sanitarias. Si preguntan, la verdad: no se tienen.
