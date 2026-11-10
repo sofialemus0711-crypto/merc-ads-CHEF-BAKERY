@@ -70,6 +70,7 @@ FUENTE PRINCIPAL DE PRODUCTOS Y PRECIOS: 04-catalogo-navidad-2026.md (si hay dif
 
 ## Producción y pauta
 - Paula sale a cámara. Se graba con celular.
+- CONFIRMADO (10 nov 2026, Sofía): el equipo de C&B puede actuar en los videos (por ejemplo, como empleados de oficina en los sketches).
 - Presupuesto Meta Ads: $900.000 COP al mes.
 
 ## PENDIENTE
