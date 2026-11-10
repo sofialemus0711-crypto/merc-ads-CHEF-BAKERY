@@ -13,4 +13,6 @@ Entrega:
 3. Abogado del diablo: la crítica más dura desde (a) una persona de oficina que hace scroll y no conoce C&B, y (b) Paula, que conoce el negocio.
 4. Veredicto: PASA (promedio ≥ 4, gancho ≥ 4 y contenido ≥ 4, sin filtros fallidos) o NO PASA, con los cambios concretos que harían que pase.
 
+Si la pieza es de imagen, usa la evaluación adaptada de conocimiento/publicidad/10-anuncios-de-imagen.md (gancho = impacto visual en 1–2 s).
+
 Sé exigente y específico. No apruebes por cortesía. Verifica precios y mínimos contra el catálogo palabra por palabra.

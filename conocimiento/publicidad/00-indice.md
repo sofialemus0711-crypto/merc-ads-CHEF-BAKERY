@@ -34,3 +34,4 @@ Investigación de clientes: el método va en la categoría 1; los datos de Chef 
 
 | 6 | Biblioteca de estructuras de guion (borrador) | 3 nov 2026 | 07-biblioteca-estructuras.md — APROBADA (18 estructuras) |
 | 7 | Cómo leer métricas de Meta Ads para guiones | 10 nov 2026 | 09-metricas-meta-ads-para-guiones.md |
+| 8 | Anuncios de imagen: formatos, reglas visuales y brief | 10 nov 2026 | 10-anuncios-de-imagen.md |
