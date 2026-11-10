@@ -1,4 +1,4 @@
-# Etapa 5 · Bloque 1: arquitectura del agente (PROPUESTA, pendiente de decisión)
+# Etapa 5 · Bloque 1: arquitectura del agente (DECIDIDO 10 nov 2026)
 
 ## Dónde vive el agente (por decidir)
 | Opción | Cómo funciona | A favor | En contra |
@@ -17,3 +17,9 @@
 
 ## Flujo de un pedido
 Pedido de Sofía → Investigador → Creativo (conceptos) → [¿Sofía elige concepto?] → Guionista → Evaluador (rehace hasta pasar) → Entrega a Sofía → Lanzamiento → Analista semanal → Bitácora → el siguiente pedido consulta la bitácora.
+
+## Decisiones de Sofía (10 nov 2026)
+- Opción B: Claude Code + este repositorio.
+- Flujo en dos pasos: primero conceptos (Sofía elige), después guiones.
+- Lectura de Meta Ads: SÍ, solo para aprender qué funciona y mejorar la calidad de los guiones.
+- Las campañas (crear, segmentar, optimizar, presupuesto) las hará OTRO agente aparte, en el futuro. Este agente NO toca campañas.
