@@ -1,4 +1,4 @@
-# Brief de imagen · "Le tocó el refrigerio" · NAV26-CAJ-I5-A · BORRADOR v2 (corregido tras evaluación 1: no pasó con 3,97; pendiente 2.ª revisión)
+# Brief de imagen · "Le tocó el refrigerio" · NAV26-CAJ-I5-A · APROBADO POR EVALUADOR (v3, 4,10) · pendiente visto bueno de Sofía y datos [REEMPLAZAR]
 Concepto #5 aprobado por Sofía el 10 nov 2026 (guiones/2026-11-10_navidad_conceptos-ronda2-frio.md). Formato de publicidad/10-anuncios-de-imagen.md. Escrito por el guionista. [REEMPLAZAR] = dato por confirmar. Hipótesis a probar (bitácora vacía).
 
 ## 1. Ficha
@@ -22,7 +22,7 @@ Encabezado fijo: **Novena oficina 🎄** · "18 participantes" (nunca menos de 1
 | Quién | Burbuja | Hora |
 |---|---|---|
 | Separador | Martes 1 de dic. | |
-| Jefe Carlos | El refrigerio de la novena del 17 le toca a Juli | 9:14 a. m. |
+| Jefe Carlos | El refrigerio del 17 le toca a Juli | 9:14 a. m. |
 | Juli | ¿Yo? | 9:15 a. m. |
 | Separador | Jueves 17 de dic. | |
 | Juli | [FOTO REAL de las cajitas] Listo. Una por persona. | 3:02 p. m. |
@@ -50,13 +50,15 @@ Titulares alternos: "La novena de la oficina, resuelta." · "Una cajita por pers
 - Chat genérico con colores C&B, NO copia de WhatsApp (sin logo, chulitos azules ni barra de escribir): se nota la recreación y se evita confusión/rechazo [lectura].
 - Paleta 60/25/10/5: beige/marfil fondo y pie · oliva burbujas de Juli y titular · lila nombres, avatar y separadores · carbón/taupe textos. Demás burbujas marfil claro con borde taupe fino. [REEMPLAZAR: HEX del manual 2026]
 - Tipografía: Poppins (burbujas, nombres, horas) · Cormorant Garamond SemiBold (titular del pie). Mínimos a 1080 px: burbujas 36, nombres 26, horas 22, titular 52–58, precio ≥ 40, línea "Chat recreado…" ≥ 26. Si no cabe, se quita una burbuja.
-- La foto real pesa ≥ 40 % del área (≥ 35 % en versión C).
-- 4:5: 0–130 encabezado · 130–1090 mensajes: separador 1 dic → jefe → "¿Yo?" → separador 17 dic → foto (~600–650 px de alto) con "Listo. Una por persona." → "¿Y esa natilla de dónde es?" → "De Chef & Bakery" · 1090–1350 pie. Si no cabe, se quita una burbuja, nunca se achica la letra. Margen lateral ≥ 64 px.
+- La foto real pesa ≥ 35 % del área en el estático A (≥ 40 % en 9:16).
+- 4:5: 0–130 encabezado · 130–1090 mensajes: separador 1 dic → jefe → "¿Yo?" → separador 17 dic → foto (~560 px de alto, casi todo el ancho) con "Listo. Una por persona." → "¿Y esa natilla de dónde es?" → "De Chef & Bakery" · 1090–1350 pie. Orden de recorte si no cabe: nunca se quitan los separadores de fecha (evitan insinuar entrega de un día para otro), ni "Listo. Una por persona.", ni se achica la letra; si aún no cabe, se quita la pareja Caro + "De Chef & Bakery" y la marca queda en el monograma del pie.
+- Versiones B y C: solo en 9:16 y carrusel (en 4:5 no caben). Margen lateral ≥ 64 px.
 - 9:16: 0–250 libre · 250–380 encabezado · 380–1360 mensajes · 1360–1530 pie · 1530–1920 libre (zona del botón de historias; referencia general de Meta).
 - Carrusel: T1 encabezado + jefe + "¿Yo?" + "Juli está escribiendo…" + "Desliza →" · T2 foto + "Juli presidenta" + "¿Y esa natilla de dónde es?" + "De Chef & Bakery" + pie. Títulos: "Le tocó a Juli" / "Cajita Navideña · desde $8.500 + impuestos".
 
 ## 4. Foto real (celular)
 - 15–20 Cajitas Navideñas en filas sobre mesa de oficina; una abierta al frente (natilla, buñuelo, hojuela); mano con manga de camisa. Librito de la novena, post-its, pocillo liso, esquina de portátil sin logos.
+- Toma adicional para la versión C: exactamente 22 cajitas en la mesa.
 - Oficina real (cliente con permiso) o mesa ambientada; no la cocina.
 - Vertical 3:4, lente 1x, sin flash ni modo retrato; luz de ventana lateral 10 a. m.–3 p. m.; ángulo ~60° + serie cenital; enfocar la cajita abierta y bajar exposición; mínimo 10 fotos (con y sin mano, detalle de natilla con buñuelo partido).
 - Debe ser exactamente lo que recibe el cliente. [REEMPLAZAR: empaque real y si lleva sticker C&B] [REEMPLAZAR: ¿se mezclan combinaciones en un pedido?]
@@ -94,6 +96,8 @@ Escríbenos por WhatsApp con el día de tu novena.
 ## 7. Calificación
 - Autocalificación del guionista: 4,07.
 - Evaluación 1 (evaluador): NO PASA, 3,97 (14 participantes < mínimo 15; "+ imp."; maqueta 4:5 no cabía; letra pequeña; zona segura 9:16). Cambios obligatorios 1–7 aplicados en v2, más opcionales: titular hablado, primera línea V1, 4,9★ / 203 reseñas, "De Chef & Bakery" en el chat.
+- Evaluación 2: PASA, 4,10 (gancho 4, contenido 4, público 5, organicidad 4, confianza 4, llamado 4, producible 4). Ajustes de producción aplicados en v3: burbuja del jefe en una línea, foto ~560 px, regla de área ≥ 35 %, orden de recorte, B y C solo en 9:16/carrusel, toma de 22 cajitas.
+- Opcionales pendientes: revalidar 4,9★/203 reseñas antes de lanzar (dato de oct); probar "De Chef & Bakery, unos de Belén"; enlace de Semana.
 
 ## 8. Qué se mide
 CTR de enlace, conversaciones por WhatsApp, costo por conversación; compartidos y etiquetas a compañeros; pruebas A vs B vs C, estático vs carrusel, V1 vs V2 (una variable a la vez); cotizaciones y ventas NAV26-CAJ-I5-* cruzadas con el Centro de Control.
