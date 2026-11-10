@@ -50,4 +50,4 @@ Nunca se borra un aprendizaje: si se contradice, se marca y se explica.
 - Tarea programada "Revisión semanal de anuncios C&B": lunes 7:57 a. m. (hora de Bogotá), primera ejecución 16 nov 2026.
 - Si no hay anuncios con gasto en los últimos 7 días, no hace informe.
 - Informe en informes/AAAA-MM-DD_revision-semanal.md + actualización de la bitácora.
-- PENDIENTE: la tarea quedó creada SIN los conectores de Meta Ads y Google Drive (la sesión no pudo pasarlos). Hay que agregarlos desde la configuración de tareas programadas en claude.ai; sin ellos, la tarea avisará que no puede leer las métricas.
+- Conectores Meta Ads y Google Drive agregados por Sofía (10 nov 2026). Verificado.
