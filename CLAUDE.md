@@ -64,7 +64,7 @@ Si Sofía no lo especifica, propón tú un brief razonable basado en la memoria 
 | La idea en 3 líneas | |
 | Por qué puede funcionar (con fuente) | |
 | Qué se va a medir | |
-**Espera a que Sofía elija** antes de escribir guiones.
+**Espera a que Sofía elija** antes de escribir guiones. Esto es una regla obligatoria (regla 25): ningún guion ni brief de imagen se empieza sin su visto bueno, aunque pida "los anuncios" directamente. Explica cada idea con suficiente detalle para que se entienda (qué se ve, qué pasa, cómo termina).
 
 **Paso 3 · Guiones** (`guionista`), solo de los conceptos elegidos.
 

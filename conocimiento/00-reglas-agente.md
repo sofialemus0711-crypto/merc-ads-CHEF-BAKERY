@@ -29,3 +29,4 @@
 22. Prohibido que parezca hecho por IA: lenguaje orgánico, hablado, paisa natural; pasar la prueba de organicidad (publicidad/08, G3).
 23. Visto bueno final de todo guion: Sofía (nadie más aprueba en nombre de la empresa).
 24. El agente crea VIDEOS e IMÁGENES (estáticos y carruseles). Las imágenes siguen el manual de identidad C&B 2026 y se entregan como brief de diseño (publicidad/10).
+25. ORDEN OBLIGATORIO (Sofía, 10 nov 2026): primero el agente presenta las IDEAS (conceptos explicados para que se entiendan: qué se ve, qué pasa y cómo termina); Sofía da el visto bueno; SOLO entonces se escriben guiones y briefs de imagen. Nunca empezar un guion sin la aprobación expresa de Sofía de esa idea, aunque el pedido diga "hazme los anuncios".
