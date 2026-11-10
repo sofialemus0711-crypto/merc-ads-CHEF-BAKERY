@@ -1,4 +1,5 @@
-# Navidad 2026 · Tráfico frío empresas · Conceptos ronda 2 (video + imagen) · 10 nov 2026 · PENDIENTE DE ELECCIÓN DE SOFÍA
+# Navidad 2026 · Tráfico frío empresas · Conceptos ronda 2 (video + imagen) · 10 nov 2026
+**Decisión de Sofía (10 nov): APROBADA la #5 "Le tocó el refrigerio". Rechazados los videos #1 y #2 (prefiere historias visuales con voz en off o solo visual). #3 y #4 sin aprobar.**
 Hecho por creativo-ideas. Todo es hipótesis (bitácora vacía). [REEMPLAZAR] = dato real antes de grabar.
 Contexto: Sofía corrigió el flujo (10 nov): primero ideas, ella aprueba, después guiones. Los guiones de la ronda 1 se detuvieron sin escribirse. Sofía propuso evaluar un unboxing y pidió incluir piezas de imagen.
 

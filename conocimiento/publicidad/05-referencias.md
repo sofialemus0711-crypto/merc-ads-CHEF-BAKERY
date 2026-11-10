@@ -21,6 +21,11 @@ Cada vez que la empresa envíe un video, el agente lo registra aquí con esta fi
 - Público caliente (ya conoce / clientes): más directo.
 - Las referencias pueden ser de cualquier sector, siempre que se puedan adaptar a C&B.
 
+## Preferencia de estilo de video (10 nov 2026) [C]
+- Sofía NO aprobó los videos de sketch actuado ("La auditoría de la cajita") ni el de proceso con contador ("Plato 25 de 25"): "no me gustan los videos que me das".
+- Pide videos tipo HISTORIA, más VISUALES: con alguien hablando de fondo (voz en off) o solo visual (sin voz).
+- Implicación: priorizar narrativa visual con voz en off o música/sonido; menos sketch actuado con diálogos a cámara. Ajustable si un resultado demuestra lo contrario.
+
 ## Referencias registradas
 | # | Enlace | Estado |
 |---|---|---|
