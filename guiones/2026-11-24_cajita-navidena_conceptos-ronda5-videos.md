@@ -1,4 +1,5 @@
-# Navidad 2026 · Ideas de video SOLO Cajita Navideña · Ronda 5 · 24 nov 2026 · PENDIENTE DE ELECCIÓN DE SOFÍA (elige 2)
+# Navidad 2026 · Ideas de video SOLO Cajita Navideña · Ronda 5 · 24 nov 2026
+**Decisión de Sofía (24 nov): APROBADA solo la #1 "Cuando olía a buñuelo". Las demás quedan sin elegir.**
 Pedido de Sofía (24 nov): "la idea es hacer videos relacionados con las cajitas navideñas". Hecho por el director con la investigación del mismo día (investigaciones/2026-11-24_navidad-ideas-video.md, "Inv. §n"). Son IDEAS (regla 25). Todo es hipótesis (bitácora vacía). [REEMPLAZAR] = dato real.
 Producto: Cajita Navideña · natilla + buñuelo + hojuela, o natilla + dos buñuelos · desde $8.500 + impuestos · mínimo 15 · "El sabor de la novena de siempre, listo para repartir." · garantía de cuentas exactas.
 Formato: sin sketch con diálogo actuado (gusto de Sofía). Complementan, no repiten, la imagen "Le tocó el refrigerio" (chat, humor).

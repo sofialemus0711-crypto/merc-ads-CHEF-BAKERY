@@ -1,4 +1,4 @@
-# Navidad 2026 · Ideas de video · Ronda 4 · 24 nov 2026 · PENDIENTE DE ELECCIÓN DE SOFÍA (elige 2)
+# Navidad 2026 · Ideas de video · Ronda 4 · 24 nov 2026 · Sofía eligió la ronda 5 (solo Cajita Navideña); ninguna de estas quedó elegida
 Hecho por creativo-ideas a partir de investigaciones/2026-11-24_navidad-ideas-video.md ("Inv. §n"). Son IDEAS (regla 25). Todo es hipótesis: bitácora vacía. [REEMPLAZAR] = dato real antes de grabar. Actores del equipo nunca presentados como clientes reales.
 Gusto de Sofía aplicado: sin sketch con diálogo actuado; historias visuales, voz en off, solo visual, Paula a cámara o proceso. No repite la ronda 3 ni copia la imagen "Le tocó el refrigerio".
 Hallazgo base: la competencia activa solo muestra producto + precio + "cotiza"; nadie muestra a quien organiza, historias ni proceso (Biblioteca de anuncios, 24 nov). En natilla/buñuelo ya se compite por precio ($3.500): no ir por ahí.
