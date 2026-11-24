@@ -14,7 +14,7 @@ Lo que ya hay: imagen I5 "Le tocó el refrigerio" (humor, nivel 2, frío) + vide
 ## 1. Una cajita por dentro
 - Gancho: cajita cerrada sobre una mesa, manos que la abren con el sonido del cartón. Texto: "Esto es lo que trae una Cajita Navideña."
 - Historia: cada producto sale y se muestra de cerca con su sonido: la natilla tiembla con la cuchara, el buñuelo se parte y se ve por dentro, la hojuela cruje. Texto que nombra cada uno. Luego la otra versión al lado (natilla + dos buñuelos): "O así." Cierre: las dos cajitas juntas: "Desde $8.500 + impuestos · mínimo 15 · Medellín, Sabaneta y Las Palmas. Escríbenos cuántos son."
-- Por qué: quien ya vio el video del buñuelo o la imagen necesita ver qué llega exactamente; lo concreto reduce el miedo a pedir a ciegas [Lectura, nivel 4: producto]. Ningún anuncio activo de natilla/buñuelo muestra la cajita por dentro con sonido (Biblioteca, 24 nov) [Dato]. Ver el producto de cerca sube la calidad percibida (Inv. §3.1).
+- Por qué: quien ya vio el video del buñuelo o la imagen necesita ver qué llega exactamente; lo concreto reduce el miedo a pedir a ciegas [Lectura, nivel 4: producto]. Ningún anuncio activo de natilla/buñuelo parece mostrar la cajita por dentro con sonido (Biblioteca, 24 nov; solo títulos, no se ven los videos) [Lectura]. Ver el producto de cerca sube la calidad percibida (Inv. §3.1).
 - Necesita: cajitas reales y empaque real [REEMPLAZAR: sticker]. Es el más barato: una mesa, un celular, 1 hora.
 - Mide: retención 75 %, video completo, guardados, conversaciones del público tibio (quien vio V01 o la imagen).
 
