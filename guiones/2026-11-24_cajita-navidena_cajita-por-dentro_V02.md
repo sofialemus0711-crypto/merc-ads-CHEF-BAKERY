@@ -1,4 +1,4 @@
-# Guion de video · "Una cajita por dentro" · NAV26-CAJ-V02-A · v2 · EN EVALUACIÓN 2
+# Guion de video · "Una cajita por dentro" · NAV26-CAJ-V02-A · v2.1 · APROBADO POR EVALUADOR (4,05) · pendiente visto bueno de Sofía, empaque y sticker reales
 Historial: v1 NO PASA en evaluación 1 (3,45; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–5: cuadro 0 con la comida a la vista, garantía en positivo ("Cuentas exactas"), cierre de quedar bien, sin precio repetido, sin etiquetas, y texto del anuncio neutro igual para A–D.
 Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda6-segundo-video.md), con su cambio: al inicio "así se ve una de nuestras cajitas", el precio desde y el diferenciador. [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
 En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V02 = racional: qué llega, cuánto cuesta y qué se garantiza (nivel 4, tibio).
@@ -24,7 +24,7 @@ En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V0
 Variantes: -B (cocina de Belén: verdad, pero diferencia menos) · -C (fecha asegurada: pesa más desde ~10 dic [Hipótesis]) · -D (4,9★ y 203 reseñas: prueba social para tibio, regla 17; revalidar).
 
 ## 2. Escena por escena (21 s)
-Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar en vista previa). Poppins SemiBold 56–64 px; etiquetas Poppins 40 px. Blanco o marfil con sombra suave, máximo 2 líneas. Lectura ≤ 15 caracteres/s; voz ≤ 3 palabras/s.
+Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar en vista previa). Poppins SemiBold 56–64 px. Blanco o marfil con sombra suave, máximo 2 líneas. Lectura ≤ 15 caracteres/s; voz ≤ 3 palabras/s.
 
 | Tiempo | Imagen | Voz de Paula (opcional) | Texto en pantalla (desde el cuadro 0) | Control |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar
 | 8,5–10,5 | Dos manos parten el buñuelo muy cerca; se ve por dentro | Sin voz: sonido real | (sin texto) | — |
 | 10,5–12,5 | Una mano parte la hojuela; caen migas | Sin voz: crujido real | (sin texto) | — |
 | 12,5–14,5 | La mano desliza la segunda cajita abierta (natilla + dos buñuelos) al lado. Cenital | "O con dos buñuelos." (4) | O natilla con dos buñuelos | 10,4 · 1,6 |
-| 14,5–17,5 | Las dos cajitas al frente; fila de cajitas cerradas desenfocada al fondo | "Desde quince, y nadie se queda sin la suya." (8) | Mínimo 15. Nadie se queda sin la suya. | 12,7 car/s · 2,7 pal/s |
+| 14,5–17,5 | Las dos cajitas al frente; fila de cajitas cerradas desenfocada al fondo | "Mínimo quince, y nadie se queda sin la suya." (8) | Mínimo 15. Nadie se queda sin la suya. | 12,7 car/s · 2,7 pal/s |
 | 17,5–21,0 | Mismo plano, acercamiento lento; monograma C&B pequeño abajo a la derecha | "Escríbenos por WhatsApp." (3) | Medellín, Sabaneta y Las Palmas · Escríbenos | 12,6 car/s |
 
 Voz: ~38 palabras en 21 s, 4 s de sonido solo (8,5–12,5 s). El precio sale una sola vez (3 s) y en el título. Sin voz se entiende igual.
@@ -71,9 +71,10 @@ Material: 6 cajitas natilla + buñuelo + hojuela · 4 cajitas natilla + dos buñ
 
 | # | Toma | Ángulo y lente | Cuántas |
 |---|---|---|---|
-| T1 | Manos abriendo la cajita, tapa a medio camino en el cuadro 0 | 45°, 1x | 8 |
+| T1 | Tapa terminando de abrirse; natilla y buñuelo ya visibles; sticker C&B en la tapa | 45°, 1x | 8 |
 | T2 | Cajita abierta quieta, contenido completo | Cenital, 1x | 4 |
 | T3 | Cuchara en la natilla, tiembla, sale un pedazo | 30–45°, 2x | 6 |
+| T3b | Fila completa de cajitas cerradas, sin huecos | 45°, 1x | 4 |
 | T4 | Buñuelo partido con las dos manos | Frontal, 2x, 60 fps | 8 |
 | T5 | Hojuela partida y migas | Lateral, 2x, 60 fps | 6 |
 | T6 | La mano desliza la segunda cajita abierta | Cenital, 1x | 4 |
@@ -109,6 +110,10 @@ Qué se mide (pistas con menos de ~1.000 impresiones o 7 días): entre A–D, re
 
 ## 8. Código
 NAV26-CAJ-V02-A (cuentas exactas) · -B (cocina de Belén) · -C (fecha asegurada) · -D (4,9★, revalidar) · -T2 texto corto · -SV sin voz.
+
+## Evaluación
+- Evaluación 1: NO PASA, 3,45 (gancho 3, contenido 3).
+- Evaluación 2: PASA, 4,05 (gancho 4, contenido 4, público 4, organicidad 4, confianza 4, llamado 4, producible 5). Condiciones: confirmar empaque y sticker reales (si el empaque es genérico, el gancho baja a 3) y confirmar con Paula cómo funciona la reposición. Aplicado en v2.1: lista de tomas corregida (T1, T3b), "Mínimo quince" en la voz. Opcional: grabar buñuelo y hojuela en otra superficie que en el V01.
 
 ## Pendientes para Sofía
 1. Empaque real (material, cómo se abre, ¿sticker C&B?): define el primer cuadro.
