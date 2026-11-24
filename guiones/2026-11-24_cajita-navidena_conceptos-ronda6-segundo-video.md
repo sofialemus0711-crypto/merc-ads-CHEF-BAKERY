@@ -1,4 +1,5 @@
-# Cajita Navideña · Ideas para el SEGUNDO video · Ronda 6 · 24 nov 2026 · PENDIENTE DE ELECCIÓN DE SOFÍA (elige 1)
+# Cajita Navideña · Ideas para el SEGUNDO video · Ronda 6 · 24 nov 2026
+**Decisión de Sofía (24 nov): APROBADA la #1 "Una cajita por dentro", con un cambio: al inicio decir "así se ve una de nuestras cajitas navideñas", el precio desde y el diferenciador. Las demás sin elegir.**
 Pedido de Sofía (24 nov): "hazme otras ideas de video así diferentes para completar quedando con una imagen y dos videos". Hecho por el director con investigaciones/2026-11-24_navidad-ideas-video.md. Son IDEAS (regla 25), todo es hipótesis.
 Lo que ya hay: imagen I5 "Le tocó el refrigerio" (humor, nivel 2, frío) + video V01 "Cuando olía a buñuelo" (emoción, nivel 1, frío; en revisión). El segundo video debe tapar lo que falta: público TIBIO o el mensaje central (que el anfitrión quede bien), con mecanismo distinto. No repite las ideas no elegidas de la ronda 5 ni "La número 15" (ronda 3).
 

@@ -1,4 +1,4 @@
-# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v2.1 · PASA CONDICIONADO (4,00) al recuerdo real de Paula
+# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v2.1 · PASA CONDICIONADO (4,00) al recuerdo real de Paula · EN PAUSA (Sofía, 24 nov: se termina cuando consiga la historia de Paula)
 Evaluación 2 (24 nov): NO PASA hoy (el centro es [REEMPLAZAR]); PASA condicionado con 4,00 si (1) el recuerdo tiene persona, objeto y acción concretos en 14–18 palabras dichas, (2) T1 queda excelente, (3) el último cartel dura 22,0–24,0 s (aplicado en v2.1: video de 24 s). Cuando llegue el recuerdo se re-evalúa solo el contenido. La -D se reescribió como versión independiente (sección 3b) y se evalúa aparte.
 Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda5-videos.md). [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
 Historial: v1 NO PASA en evaluación 1 (3,18; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–4 y 6–8. El cambio 5 (recuerdo real de Paula) sigue pendiente: sin él, la A no se graba y la principal pasa a ser la -D.
