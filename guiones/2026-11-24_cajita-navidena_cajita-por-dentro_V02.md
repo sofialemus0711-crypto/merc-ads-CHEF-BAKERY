@@ -1,4 +1,4 @@
-# Guion de video · "Una cajita por dentro" · NAV26-CAJ-V02-A · v2.1 · APROBADO POR EVALUADOR (4,05) · pendiente visto bueno de Sofía, empaque y sticker reales
+# Guion de video · "Una cajita por dentro" · corte TIBIO NAV26-CAJ-V02-A + corte FRÍO NAV26-CAJ-V02F-A (al final) · v2.1 · APROBADO POR EVALUADOR (4,05) · pendiente visto bueno de Sofía, empaque y sticker reales
 Historial: v1 NO PASA en evaluación 1 (3,45; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–5: cuadro 0 con la comida a la vista, garantía en positivo ("Cuentas exactas"), cierre de quedar bien, sin precio repetido, sin etiquetas, y texto del anuncio neutro igual para A–D.
 Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda6-segundo-video.md), con su cambio: al inicio "así se ve una de nuestras cajitas", el precio desde y el diferenciador. [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
 En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V02 = racional: qué llega, cuánto cuesta y qué se garantiza (nivel 4, tibio).
@@ -128,7 +128,7 @@ NAV26-CAJ-V02-A (cuentas exactas) · -B (cocina de Belén) · -C (fecha asegurad
 
 ---
 
-# CORTE PARA PÚBLICO FRÍO · NAV26-CAJ-V02F-A · v2 · EN EVALUACIÓN 2
+# CORTE PARA PÚBLICO FRÍO · NAV26-CAJ-V02F-A · v2.1 · APROBADO POR EVALUADOR (4,05) · pendiente visto bueno de Sofía
 Historial: v1 NO PASA (3,75; gancho 3). v2 aplica los cambios obligatorios 1–5: gancho con situación, garantía completa, sin frases de la I5, ritmo y cartel final en dos tiempos.
 Pedido de Sofía (24 nov): "ajústame el video para público frío y tibio". Decisión del director: **una sola grabación, dos cortes**. El corte de arriba (V02-A, 21 s) queda para **tibio**: precio al inicio, directo (regla 14). Este corte es para **frío**: no debe parecer anuncio, el producto se disfruta primero y el precio va solo al final.
 Diferencias frente al tibio: abre con el sonido y la comida, no con "así se ve… desde $8.500"; pone la cajita en su contexto (escritorio de oficina el día de la novena) para que la persona se vea ahí; el diferenciador se dice como beneficio para quien organiza ("nadie se queda sin la suya"); un solo precio, al final. Se graba el mismo día con 2 tomas extra (T8 y T9).
@@ -161,7 +161,7 @@ Nota de regla 18: "si falta una, la reponemos" se dice sobre una fila completa; 
 | Código | Imagen | Texto | Por qué probarlo |
 |---|---|---|---|
 | -A | Buñuelo partiéndose | ¿Qué repartir en la novena de la oficina? | Plantea la situación (nivel 2) desde el primer segundo sin sonar a anuncio |
-| -B | Natilla temblando con la cuchara (T3) | ¿Qué repartir en la novena de la oficina? | Mismo texto, otra toma: prueba qué imagen detiene más |
+| -B | Natilla temblando con la cuchara (T3) | ¿Qué repartir en la novena de la oficina? | Mismo texto, otra toma: prueba qué imagen detiene más. En la -B, la escena de 2,5–5 s pasa a ser T4 (buñuelo) para no repetir la natilla |
 | -C | Las tres cosas juntas en la cajita, una mano duda entre ellas | ¿Con cuál empiezas: natilla, buñuelo o hojuela? | Pregunta fácil de contestar: busca comentarios y alcance barato [Lectura]. Viene del concepto #2 de la ronda 5 (no aprobado como idea propia; aquí solo es variante) |
 
 ## Texto del anuncio (frío, corto, que no suene a anuncio)
@@ -191,3 +191,4 @@ Frío vs tibio no se comparan entre sí (son públicos distintos). En el corte f
 - Regla 16: el cierre "nadie se queda sin la suya" es quien organiza quedando bien.
 
 Nota: comparte tomas con el V01 (en pausa). Si el V01 sale para el mismo público frío, usar superficies distintas o no publicarlos a la vez.
+Evaluación del corte frío: v1 NO PASA (3,75); v2 PASA (4,05: gancho 4, contenido 4, público 4, organicidad 4, confianza 4, llamado 4, producible 5). Opcional: si en la vista previa "Cajita Navideña · desde $8.500 + impuestos" se lee con dificultad, alargar ese tramo a 3 s (video de 19 s). Para el agente de campañas: no publicar V01 y V02F a la vez al mismo público frío.
