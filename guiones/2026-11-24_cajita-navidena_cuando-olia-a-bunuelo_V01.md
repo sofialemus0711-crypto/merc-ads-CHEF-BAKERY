@@ -1,138 +1,143 @@
-# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v1 del guionista · EN EVALUACIÓN
-Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda5-videos.md). [REEMPLAZAR] = dato por confirmar. Todo es hipótesis (bitácora vacía).
-Relación con la imagen I5 "Le tocó el refrigerio": la imagen va por humor y nivel 2; este video va por emoción y lo hecho a mano, nivel 1. Por eso no usa "te tocó", ni chat, ni "una por persona".
+# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v2 · EN EVALUACIÓN 2
+Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda5-videos.md). [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
+Historial: v1 NO PASA en evaluación 1 (3,18; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–4 y 6–8. El cambio 5 (recuerdo real de Paula) sigue pendiente: sin él, la A no se graba y la principal pasa a ser la -D.
+Relación con la imagen I5: la imagen va por humor y nivel 2; este video por emoción y lo hecho a mano, nivel 1; no repite "te tocó", chat ni "una por persona".
 
 ## 1. Ficha
 | Campo | Contenido |
 |---|---|
 | Producto | Cajita Navideña: natilla + buñuelo + hojuela, o natilla + dos buñuelos · desde $8.500 + impuestos · mínimo 15 |
-| Público | Frío. Personas de oficina en Medellín, Sabaneta y Las Palmas que organizan o deciden la novena (organizadora, jefe o dueño de pyme). No conocen a C&B. |
-| Nivel | 1 · inconsciente. No busca refrigerio; el video le recuerda la novena "de siempre" y le muestra que eso existe en cajita. |
+| Público | Frío. Personas de oficina en Medellín, Sabaneta y Las Palmas que organizan o deciden la novena. No conocen a C&B. |
+| Nivel | 1 · inconsciente. Recuerda la novena "de siempre", muestra que existe en cajita y termina en quien organizó y queda bien (regla 16). |
 | Etapa | Presentación |
-| Estructura | #11 Storytime (Paula, recuerdo real) + #6 Proceso con sonido real |
-| Duración | 25 s (sirve 23–25 s) |
-| Formato | 9:16, 1080×1920, celular, voz en off de Paula, sonido real, texto en pantalla todo el tiempo |
-| Lanzamiento | 1.ª o 2.ª semana de diciembre. Novena 16–24 dic. Se apaga cuando no alcancen a entrar pedidos [REEMPLAZAR: anticipación mínima]. |
-| Código | NAV26-CAJ-V01-A · variantes de gancho -B, -C, -D |
+| Estructura | #11 Storytime (Paula) + #6 Proceso con sonido real, cierre de pico y final |
+| Duración | 23 s |
+| Formato | 9:16, 1080×1920, celular, voz en off de Paula, sonido real, texto desde el cuadro 0 |
+| Lanzamiento | 1.ª o 2.ª semana de diciembre (novena 16–24). Se apaga cuando no alcancen a entrar pedidos [REEMPLAZAR: anticipación mínima]. |
+| Código | NAV26-CAJ-V01-A · -B · -C · -D |
 
-Condición para el gancho A: "En mi casa, la novena empezaba cuando olía a esto" solo se graba si Paula confirma que es verdad para ella. Si no, se lanza la D.
+La A se graba solo si (1) Paula confirma que en su casa "la novena olía a esto" y (2) la toma T1 queda excelente. Si falla algo, la principal es la -D.
 
-## 2. Escena por escena
-Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (referencia general de Meta; verificar en vista previa). Letra: Poppins SemiBold 56–64 px texto principal; Poppins 36 px etiqueta; Cormorant Garamond SemiBold 64 px frase de cierre. Blanco o marfil con sombra suave, máximo 2 líneas.
+## 2. Escena por escena (23 s)
+Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar en vista previa). Poppins SemiBold 56–64 px; etiqueta Poppins 36 px. Blanco o marfil con sombra suave, máximo 2 líneas.
 
 | Tiempo | Imagen | Voz o audio | Texto en pantalla |
 |---|---|---|---|
-| 0,0–2,5 | Plano muy cerrado a 45° de un buñuelo en el aceite que se voltea solo y deja ver el lado dorado; burbujas a contraluz | Fritura real fuerte desde el primer cuadro. Paula: "En mi casa, la novena empezaba cuando olía a esto." | En mi casa, la novena empezaba cuando olía a esto. |
-| 2,5–5,0 | Paula de perfil o de espaldas en la cocina de Belén, con delantal, sacando buñuelos con la espumadera; no mira a cámara | Paula: [REEMPLAZAR: recuerdo real, parte 1] | Abajo izq.: Paula · Chef & Bakery · cocina de Belén. Arriba: [REEMPLAZAR: recuerdo corto, 6–8 palabras] |
-| 5,0–7,5 | Natilla espesa revolviéndose; revienta una burbuja; utensilio real [REEMPLAZAR] | Paula: [REEMPLAZAR: recuerdo real, parte 2] + "blup" real | [REEMPLAZAR: segunda parte, 6–8 palabras] |
-| 7,5–10,0 | Natilla cuajada cortada en cuadros; se levanta uno con espátula | Termina el recuerdo (2,5–10 s: 14–16 palabras en total) | (sigue el texto anterior o su cierre) |
-| 10,0–12,5 | Mano parte una hojuela muy cerca de la cámara; caen migas | Sin voz: crujido real | Natilla, buñuelo y hojuela. |
-| 12,5–15,0 | Cenital: manos meten natilla, buñuelo y hojuela en la cajita y la cierran; fila de cajitas al fondo | Paula: "Aquí en Belén lo seguimos haciendo a mano, y ahora va en cajita." + cierre de la cajita | Hecho a mano en Belén [REEMPLAZAR: confirmar] |
-| 15,0–17,5 | Oficina, plano general bajo: grupo de pie leyendo los gozos frente a un pesebre pequeño; alguien con el librito | Gozos reales cantados ("Ven, ven, ven…"), sin voz de Paula | Para la novena de la oficina. (Si es ambientada, en pequeño: Novena recreada con nuestro equipo.) |
-| 17,5–20,0 | Las cajitas pasan de mano en mano; alguien abre la suya, parte el buñuelo y sonríe | Paula: "Para que en la oficina también huela a novena." + gozos y risas de fondo | Para que en la oficina también huela a novena. |
-| 20,0–22,5 | Cajita abierta en mesa de oficina junto al librito, luz de ventana, plano fijo | Ambiente de oficina, más bajo | El sabor de la novena de siempre, listo para repartir. (Cormorant) |
-| 22,5–25,0 | Mismo plano con acercamiento lento; monograma C&B pequeño abajo a la derecha, dentro de zona segura | Paula: "Es la Cajita Navideña. Escríbenos por WhatsApp." | Cajita Navideña · desde $8.500 + impuestos · mínimo 15 / Medellín, Sabaneta y Las Palmas · Escríbenos por WhatsApp |
+| 0,0–2,5 | Cuadro 0 con movimiento ya en curso: el buñuelo se está volteando en el aceite, lado dorado, burbujas a contraluz. Junto a la paila, en foco suave, el objeto real del recuerdo de Paula [REEMPLAZAR] | Fritura real desde el cuadro 0. Paula: "En mi casa, la novena olía a esto." (8 palabras) | Desde el cuadro 0: En mi casa, la novena olía a esto. |
+| 2,5–5,0 | Paula de perfil o de espaldas en la cocina de Belén, con delantal, saca buñuelos con la espumadera; no mira a cámara | Paula: [REEMPLAZAR: recuerdo real, parte 1] | Etiqueta: Paula · Chef & Bakery · cocina de Belén. Arriba: [REEMPLAZAR: 6–8 palabras] |
+| 5,0–7,5 | Natilla espesa revolviéndose con el utensilio real [REEMPLAZAR]; revienta una burbuja | Paula: [REEMPLAZAR: recuerdo real, parte 2] + "blup" real | [REEMPLAZAR: 6–8 palabras] |
+| 7,5–10,0 | Natilla cuajada cortada en cuadros; uno se levanta con espátula | Fin del recuerdo (2,5–10 s: 14–18 palabras máximo) | (continúa) |
+| 10,0–12,5 | Mano parte una hojuela muy cerca; caen migas | Sin voz: crujido real | Natilla, buñuelo y hojuela. |
+| 12,5–15,0 | Cenital: manos arman y cierran la cajita; fila al fondo | Paula: "Aquí lo seguimos haciendo a mano." (6) + cierre de cajita | Hecho a mano en Belén, Medellín [REEMPLAZAR: confirmar] |
+| 15,0–17,5 | Oficina, plano general bajo: 4–6 personas leen los gozos frente a un pesebre pequeño | Gozos cantados en vivo ("Ven, ven, ven…"), sin voz de Paula | Para la novena de la oficina. (Si es ambientada, en pequeño: Novena recreada con nuestro equipo.) |
+| 17,5–19,0 | Pico: la organizadora de perfil en primer término mira cómo todos abren su cajita; compañeros desenfocados al fondo | Paula: "Para que la oficina también huela a novena." (8, de 17,5 a 20,5) + hojuela y risas | Para que la oficina también huela a novena. |
+| 19,0–20,5 | Final: un compañero le levanta la cajita en señal de gracias; ella sonríe y devuelve el gesto. Sin diálogo | Sigue la frase; ambiente real | (se mantiene) |
+| 20,5–22,0 | Misma toma: ella abre su cajita (no plano de producto) | Paula: "Escríbenos por WhatsApp." (3) | Cajita Navideña · desde $8.500 + impuestos |
+| 22,0–23,0 | Misma toma; monograma C&B pequeño abajo a la derecha, dentro de zona segura. Fin | Ambiente que se apaga | Mínimo 15 · Medellín, Sabaneta y Las Palmas |
 
-Música: mejor no usarla; mandan el sonido real y los gozos en vivo. Si se usa, instrumental suave de la biblioteca de Meta, 20 dB por debajo de la voz. Nada de grabaciones comerciales de villancicos.
-Subtítulos: el texto en pantalla cumple esa función; no activar automáticos (se duplicarían).
+Voz total: 39–43 palabras en 23 s con 5 s sin voz; dentro de ~3 palabras por segundo.
+Música: mejor no usarla; si se usa, instrumental de la biblioteca de Meta, 20 dB por debajo de la voz. Gozos cantados en vivo, nada de grabaciones comerciales.
 
-### Recuerdo de Paula: cómo sacarlo (no lo tenemos y no se inventa)
-Grabar su respuesta con el celular; dejarla hablar 1–2 min y escoger 14–16 palabras.
-1. Cuando era niña, ¿quién hacía la natilla o los buñuelos en su casa, y en qué? ¿Había una olla, paila o cuchara que solo salía en diciembre?
-2. ¿Qué le tocaba hacer a usted en la novena: revolver, repartir, leer los gozos, robarse buñuelos antes de tiempo?
-3. ¿Hay un olor, sonido o frase de esa casa que le llegue cuando fritan en Belén? ¿Es verdad que en su casa "la novena empezaba cuando olía a buñuelo"?
+### Recuerdo de Paula (cambio 5, pendiente; no se inventa)
+Grabar su respuesta con el celular; dejarla hablar libre y escoger 14–18 palabras.
+1. Cuando era niña, ¿quién hacía la natilla o los buñuelos en su casa, y en qué? ¿Había una olla, paila o cuchara que solo salía en diciembre? ¿Todavía existe y se puede traer a la cocina para el primer cuadro?
+2. ¿Qué le tocaba hacer en la novena: revolver, repartir, leer los gozos, robarse buñuelos antes de tiempo?
+3. ¿Hay un olor, sonido o frase de esa casa que le llegue cuando fritan en Belén? ¿Es verdad que "la novena olía a buñuelo"?
 
-EJEMPLO HIPOTÉTICO, NO ES DE PAULA Y NO SE GRABA: "Mi abuela sacaba una olla que no se usaba sino en diciembre, y a los primos nos tocaba revolver por turnos." Solo muestra tamaño y tono: persona concreta, objeto concreto, algo que pasaba.
+EJEMPLO HIPOTÉTICO, NO ES DE PAULA Y NO SE GRABA: "Mi abuela sacaba una olla que no se usaba sino en diciembre, y a los primos nos tocaba revolver." Solo medida y tono.
 
-## 3. Tres ganchos alternativos (0–2,5 s; luego el video es igual)
-| Código | Imagen | Voz o audio | Texto | Por qué probarlo |
+## 3. Ganchos alternativos (el resto igual)
+| Código | Imagen | Voz o audio | Texto (desde el cuadro 0) | Ajuste al cuerpo |
 |---|---|---|---|---|
-| -B | Natilla espesa; revienta una burbuja grande | "Blup" real. Paula: "¿A qué olía tu casa en diciembre? La mía, a esto." | ¿A qué olía tu casa en diciembre? | Pregunta personal que cada uno responde por dentro. Usa T3; la escena 5,0–7,5 pasa a T3b. |
-| -C | Pantalla casi negra 0,5 s; crujido de hojuela y se revela la mano | Crujido y Paula: "En mi casa, la novena sonaba así." | Este sonido, en diciembre, es novena. | Gancho de sonido y cuadro inesperado. La escena 10,0–12,5 pasa a otra toma de T1. |
-| -D | Canasta de buñuelos recién escurridos; una mano coge uno | Paula: "En Medellín comemos el triple de buñuelo que en Bogotá." | En Medellín se come más del triple de buñuelo que en Bogotá. (pequeño: Worldpanel, dic 2025) | Dato local; no depende del recuerdo de Paula. Dura 3 s. |
+| -B | Natilla espesa con una burbuja grande ya reventando | "Blup". Paula: "¿A qué olía tu casa en diciembre? La mía, a esto." (10, 0–3,3 s) | ¿A qué olía tu casa en diciembre? | La escena 5,0–7,5 pasa a T3b; el recuerdo empieza en 3,3 s, máximo 16 palabras. |
+| -C | Casi negro; a los 0,3 s crujido y se revela la mano con la hojuela partida | Crujido. Paula: "En mi casa, la novena sonaba así." | Este sonido, en diciembre, es novena. | La escena 10,0–12,5 pasa a T1c con el texto "Natilla, buñuelo y hojuela". |
+| -D | Canasta de buñuelos recién escurridos; una mano ya está cogiendo uno | Paula: "En Medellín comemos más del triple de buñuelo que en Bogotá." (11, 0–3,7 s) | En Medellín comemos más del triple de buñuelo que en Bogotá. (pequeño: Worldpanel, dic 2025) | Recuerdo desde 3,7 s, máximo 16 palabras. No se publica sin el enlace de la fuente. Principal si la A no cumple. |
 
 ## 4. Texto del anuncio (tú)
-**Principal V1 (largo, frío):**
-Hay casas donde la novena empezaba cuando olía a buñuelo.
-[REEMPLAZAR: una o dos frases del recuerdo real de Paula, en primera persona, firmadas "— Paula, Chef & Bakery"]
-En nuestra cocina de Belén seguimos haciendo la natilla, los buñuelos y la hojuela a mano [REEMPLAZAR: confirmar], y ahora van en cajita, para la novena de tu oficina.
-Cajita Navideña: natilla, buñuelo y hojuela, o natilla y dos buñuelos. Desde $8.500 + impuestos, pedido mínimo de 15.
-Entregamos en Medellín, Sabaneta y Las Palmas (el domicilio se cobra según la zona). Si falta una cajita, la reponemos sin costo.
-Somos Chef & Bakery: llevamos más de 15 años cocinando en Medellín.
-La novena va del 16 al 24 de diciembre. Escríbenos por WhatsApp, dinos cuántos son y qué día, y con el anticipo te apartamos la fecha.
+**Principal V1:**
+En mi casa, la novena empezaba cuando olía a buñuelo. [REEMPLAZAR: recuerdo real, 1 frase] — Paula, Chef & Bakery
+Hoy hacemos natilla, buñuelo y hojuela en nuestra cocina de Belén [REEMPLAZAR: confirmar "a mano"] y los llevamos en cajita a la novena de tu oficina.
+Desde $8.500 + impuestos, mínimo 15. Medellín, Sabaneta y Las Palmas; domicilio según zona.
+Escríbenos por WhatsApp con cuántos son y qué día; con el anticipo tu fecha queda asegurada.
 
 **Principal V2 (corto):**
 La novena de siempre olía a buñuelo. La de tu oficina también puede.
-Natilla, buñuelo y hojuela hechos en Belén, en cajita. Desde $8.500 + impuestos, mínimo 15, en Medellín, Sabaneta y Las Palmas.
+Natilla, buñuelo y hojuela hechos en Belén, en cajita. Desde $8.500 + impuestos, mínimo 15, en Medellín, Sabaneta y Las Palmas. Más de 15 años cocinando en Medellín.
 Escríbenos por WhatsApp con el día de tu novena.
 
-**Título:** Natilla y buñuelo para la novena de tu oficina (alterno: Cajita Navideña · desde $8.500 + impuestos)
+**Título:** El sabor de la novena de siempre, listo para repartir. (alterno: Natilla y buñuelo para la novena de tu oficina)
 **Botón:** Enviar mensaje (WhatsApp)
-**Mensaje sugerido:** "Hola, vi el video del buñuelo. ¿Me cuentan de la Cajita Navideña para la novena? Somos ___ personas." (sirve para saber de dónde llegó, porque "cómo se enteró" no es confiable; 01-contexto)
+**Mensaje sugerido:** "Hola, vi el video del buñuelo. ¿Me cuentan de la Cajita Navideña para la novena? Somos ___ personas."
+
+**Respuesta para comentarios sobre sanidad (propuesta; la aprueba Sofía):** "Hola, [nombre]. Te respondemos con la verdad: hoy no tenemos permiso sanitario. Si para tu empresa es un requisito, preferimos que lo sepas desde ya." Nada que lo compense ni dé a entender otra cosa (regla 3). Igual por WhatsApp.
 
 ## 5. Lista de tomas para celular
-Ajustes: vertical, 4K 30 fps (1080p 60 fps para el aceite), lente 1x (2x en planos muy cerrados, nunca 0,5x), sin filtros, sin modo retrato, sin flash. Bloqueo AE/AF con toque largo; bajar un poco la exposición en la comida. Limpiar el lente antes de cada toma. Trípode a distancia segura del aceite.
-Luz: lateral de ventana o lámpara cálida de lado; evitar el fluorescente de arriba. Aceite a contraluz. Oficina: ventana entre 10 a. m. y 3 p. m.
-No puede salir en cuadro: carteles, sellos o papeles que parezcan certificados; logos de otras empresas sin permiso; comida que no venga en la cajita. Orden y limpieza sí.
+Ajustes: vertical, 4K 30 fps (1080p 60 fps para el aceite), lente 1x (2x en planos muy cerrados, nunca 0,5x), sin filtros, modo retrato ni flash. Bloqueo AE/AF; bajar un poco la exposición en la comida. Limpiar el lente. Trípode a distancia segura del aceite.
+Arranque: grabar 2 s antes de la acción y cortar en edición donde ya hay movimiento.
+Luz: cocina con ventana o lámpara cálida lateral, aceite a contraluz. Oficina: ventana 10 a. m.–3 p. m., sin fluorescente de frente.
+No puede salir: carteles, sellos o papeles que parezcan certificados; logos sin permiso; pantallas con información; comida que no venga en la cajita.
 
 | # | Toma | Ángulo y lente | Cuántas |
 |---|---|---|---|
-| T1 | Buñuelo que se voltea en el aceite (gancho A) | 45°, 2x, contraluz, 60 fps | 8–10 |
-| T1b | Canasta de buñuelos escurriendo y mano que coge uno (gancho D) | 45°, 1x | 4 |
-| T2 | Paula sacando buñuelos con la espumadera, de perfil o espaldas | Plano medio, 1x | 4 |
-| T3 / T3b | Natilla revolviéndose, burbuja que revienta (cuerpo y gancho B) | Cenital y 45°, 2x | 5 + 3 |
-| T4 | Natilla cuajada cortada en cuadros | 45°, 1x | 4 |
-| T5 | Hojuela partida muy cerca (cuerpo y gancho C con fondo oscuro) | Lateral, 2x | 6 |
-| T6 | Armado y cierre de la cajita, fila al fondo | Cenital, 1x | 4 |
-| T7 | Oficina leyendo los gozos frente a un pesebre | Plano general bajo, 1x | 5 |
-| T8 | Cajitas pasando de mano en mano | Plano medio, 1x | 5 |
-| T9 | Alguien abre la cajita, parte el buñuelo y sonríe (natural) | Plano cerrado, 1x | 4 |
-| T10 | Cajita abierta junto al librito, quieta 10 s | 60° y cenital, 1x | 3 |
-| S1 | Sonido aparte con un segundo celular a 20–30 cm: fritura, "blup", crujido (5 intentos), cierre de cajita, gozos; 10 s c/u | — | 1 serie |
-| V1 | Voz de Paula en cuarto pequeño con ropa o cortinas, a 15–20 cm, app de grabadora: primero la charla libre del recuerdo, luego 3 tomas del texto, como contándole a una amiga | — | 3 + charla |
+| T1 | Buñuelo volteándose con el objeto del recuerdo junto a la paila (gancho A) | 45°, 2x, contraluz, 60 fps | 10 (si ninguna es excelente, principal -D) |
+| T1b | Canasta de buñuelos y mano que coge uno (gancho D) | 45°, 1x | 5 |
+| T1c | Fritura sin el objeto (reserva para -C) | 45°, 2x | 3 |
+| T2 | Paula con la espumadera, de perfil o espaldas | Plano medio, 1x | 4 |
+| T3 / T3b | Natilla revolviéndose y burbuja | Cenital y 45°, 2x | 5 + 3 |
+| T4 | Natilla cuajada en cuadros | 45°, 1x | 4 |
+| T5 | Hojuela partida, con serie sobre fondo oscuro para -C | Lateral, 2x | 6 |
+| T6 | Armado y cierre de la cajita | Cenital, 1x | 4 |
+| T7 | 4–6 personas leyendo los gozos frente al pesebre | Plano general bajo, 1x | 5 |
+| T8 | Organizadora de perfil en primer término, todos abriendo al fondo | Plano medio, 1x, foco en ella | 5 |
+| T9 | Compañero le levanta la cajita, ella sonríe y abre la suya; sigue 5 s para el cartel | Plano medio, 1x | 5 |
+| S1 | Sonido aparte con segundo celular a 20–30 cm: fritura, "blup", crujido (5), cierre de cajita, gozos; 10 s c/u | — | 1 serie |
+| V1 | Voz de Paula en cuarto pequeño con ropa o cortinas, a 15–20 cm: charla libre del recuerdo y 3 tomas contadas, no leídas, cronometradas | — | 3 + charla |
 
-Oficina: novena real de un cliente con permiso escrito de quienes salen, o el equipo de C&B ambientado. Nunca presentado como cliente. Sin logos sin permiso ni pantallas con información visible.
+Oficina con equipo pequeño (C&B tiene 1 empleado fijo):
+- Opción 1: novena real de un cliente, con permiso escrito del cliente y autorización de imagen de cada persona. No se dice que es cliente ni se muestra su logo sin permiso.
+- Opción 2: ambientada con 4–6 personas (organizadora, compañero, 2–4 más: equipo o personas de confianza) con autorización firmada. Paula se queda en la cocina. Sala u oficina prestada, trípode y alguien que maneje el celular. Etiqueta "Novena recreada con nuestro equipo".
+- Para que se vea lleno: planos medios y cerrados, gente desenfocada al fondo, grupo junto en T7. 6 cajitas reales, una por persona.
 
 ## 6. Base de investigación
-- [Dato] Medellín consume más de 3 veces los buñuelos de Bogotá (Worldpanel by Numerator, dic 2025, citado por Semana y La República; investigaciones 2026-11-10 y 2026-11-24 §3.8). Falta el enlace exacto.
-- [Dato] En la novena se turnan anfitriones que "ofrecen algún refrigerio" (Opus Dei Colombia; calendariodecolombia.com). Novena 16–24 dic.
-- [Dato] Los anuncios activos de natilla y buñuelo compiten por precio (desde $3.500) y ninguno muestra proceso ni historia (Biblioteca de anuncios, 24 nov). [Lectura] C&B compite por recuerdo y hecho a mano.
-- [Dato] Ver el trabajo detrás sube el valor y la calidad percibida (Buell y Norton 2011; Buell, Kim y Tsay 2017).
-- [Dato] Se recuerda el pico y el final (Kahneman 1993; Redelmeier 2003; matizado en 2022). Por eso termina en la oficina y retoma la frase del olor.
-- [Dato, guía antigua de Meta citada] Reels con persona o texto en pantalla: −16 % costo por resultado. Reels = 53 % de los anuncios de Instagram (Sensor Tower vía eMarketer).
-- [Lectura] Nivel 1 pide historia y datos de forma indirecta (publicidad/03); frío no debe sentir publicidad (regla 14).
-- [La empresa] Paula sale en videos; producción propia en Belén; más de 15 años (01-contexto). Frases de la carta: "Delicias hechas a mano…", "El sabor de la novena de siempre, listo para repartir." (04-catálogo).
-- [La empresa] Precio, mínimo, contenido, cobertura, domicilio según zona y garantías (04-catálogo; reglas 4, 5, 15).
-- [Hipótesis] Que el buñuelo se voltea solo, que todo se hace en Belén y no se compra a terceros, y que Paula tiene ese recuerdo. Se confirma antes de grabar.
-- [Hipótesis] La nostalgia de la novena en casa mueve a quien organiza la de la oficina. Se valida con compartidos y conversaciones.
-- Límite: no hay frases textuales de clientes (faltan WhatsApp 2025 y reseñas).
+- [Dato] Medellín consume más de 3 veces los buñuelos de Bogotá (Worldpanel by Numerator, dic 2025, vía Semana y La República; investigaciones 2026-11-10 y 2026-11-24 §3.8). Falta el enlace exacto; sin él la -D no se publica.
+- [Dato] En la novena se turnan anfitriones que "ofrecen algún refrigerio" (Opus Dei Colombia; calendariodecolombia.com).
+- [Dato] Los anuncios activos de natilla y buñuelo compiten por precio ($3.500); ninguno muestra proceso, historia ni a quien organiza (Biblioteca de anuncios, 24 nov). [Lectura] C&B compite por recuerdo, hecho a mano y reconocimiento a quien organiza.
+- [Dato] Ver el trabajo detrás sube el valor percibido (Buell y Norton 2011; Buell, Kim y Tsay 2017).
+- [Dato] Se recuerda el pico y el final (Kahneman 1993; Redelmeier 2003; matizado en 2022). Por eso termina en el gracias a la organizadora (regla 16).
+- [Dato, citado por terceros] Reels con persona o texto en pantalla: −16 % costo por resultado; Reels = 53 % de los anuncios de Instagram.
+- [Lectura] Nivel 1 pide historia indirecta (publicidad/03); frío no debe sentir publicidad (regla 14): precio solo en el cartel final.
+- [La empresa] Paula en videos, celular, producción en Belén, más de 15 años, 1 empleado fijo (01-contexto). Frase del título y "hechas a mano" de la carta (04-catálogo).
+- [La empresa] Precio, mínimo, contenido, cobertura, domicilio, garantías (04-catálogo; reglas 4, 5, 15). Sanidad: no se tiene y se dice la verdad (regla 3).
+- [Hipótesis] Recuerdo y objeto de Paula; buñuelo que se voltea solo; todo a mano en Belén. Se confirma antes de grabar.
+- [Hipótesis] Nostalgia + gracias a quien organiza mueve a la organizadora. Se valida con compartidos y conversaciones.
+- Límite: no hay frases textuales de clientes.
 
-## 7. Autocalificación del guionista y qué se mide
-Filtros eliminatorios: cumple (reglas, catálogo, datos marcados, base, organicidad condicionada al recuerdo real, etapa con fuente).
+## 7. Autocalificación del guionista (v2) y qué se mide
+Filtros: cumple (reglas, catálogo, datos marcados, base, organicidad, etapa).
+| Criterio | Nota |
+|---|---|
+| Gancho 30 % | 4 |
+| Contenido 30 % | 4 (baja a 3 si el recuerdo es genérico) |
+| Público y nivel 10 % | 5 |
+| Organicidad 10 % | 4 |
+| Confianza 8 % | 4 |
+| Llamado 7 % | 4 |
+| Producible 5 % | 4 |
+| **Promedio** | **4,10** |
 
-| Criterio | Nota | Por qué |
-|---|---|---|
-| Gancho (30 %) | 4 | Movimiento, sonido y frase personal desde el primer cuadro; se entiende sin sonido. Riesgo: "otro video de buñuelos" si T1 no queda excelente. |
-| Contenido (30 %) | 4 | Recuerdo, proceso, producto, para quién y precio. Si el recuerdo es genérico baja a 3. |
-| Público y nivel (10 %) | 5 | No parece anuncio hasta el cierre. |
-| Organicidad (10 %) | 4 | Paisa sencilla; depende del recuerdo real. |
-| Confianza (8 %) | 4 | Cocina real, Paula, proceso; garantías en el texto. |
-| Llamado (7 %) | 4 | Suave por ser frío, pero en voz, pantalla y botón. |
-| Producible (5 %) | 4 | Celular; requiere conseguir oficina. |
-| **Promedio** | **4,10** | |
-
-Qué se mide (pistas; con menos de ~1.000 impresiones o 7 días no hay conclusión): tasa de gancho; retención (ThruPlays ÷ 3 s y curva 25/50/75/95 %; ver si se van en el recuerdo o en la oficina); tiempo promedio vs 25 s; compartidos y guardados; conversaciones, costo por conversación y mensajes con "vi el video del buñuelo"; A vs B vs C vs D, una variable a la vez; contra la imagen I5 (humor vs emoción); cotizaciones y ventas NAV26-CAJ-V01-* en el Centro de Control.
+Qué se mide (pistas con menos de ~1.000 impresiones o 7 días): tasa de gancho; retención (ThruPlays ÷ 3 s y curva 25/50/75/95 %; ver si se van en el recuerdo o antes del pico de 17,5 s); tiempo promedio vs 23 s; compartidos y guardados; conversaciones, costo por conversación, mensajes con "vi el video del buñuelo"; A/B/C/D una variable a la vez; contra la imagen I5; cotizaciones y ventas NAV26-CAJ-V01-* en el Centro de Control.
 
 ## 8. Código
-NAV26-CAJ-V01-A (gancho "olía a esto") · -B (pregunta del olor) · -C (crujido) · -D (dato Worldpanel). Texto corto: sufijo -T2.
+NAV26-CAJ-V01-A ("la novena olía a esto") · -B (pregunta del olor) · -C (crujido) · -D (dato Worldpanel; principal si la A no cumple) · sufijo -T2 con el texto corto.
 
 ## Pendientes para Sofía
-1. Recuerdo real de Paula (3 preguntas) y confirmar si "la novena empezaba cuando olía a buñuelo". Si no, se lanza la D.
+1. Recuerdo real de Paula y el objeto de su casa para el primer cuadro; confirmar "la novena olía a esto". Si falta, principal -D.
 2. Confirmar que natilla, buñuelo y hojuela se hacen a mano en Belén y no se compran a terceros.
-3. ¿Los buñuelos se voltean solos? Si no, se muestra la espumadera; ni voz ni texto dicen "solo".
-4. Utensilios reales (paila u olla, cuchara).
-5. Oficina: novena real de cliente con permiso escrito, o ambientada con el equipo (con etiqueta "Novena recreada con nuestro equipo", recomendada).
-6. Empaque real (¿sticker C&B?), igual que en la imagen I5.
-7. Anticipación mínima para pedir.
-8. Fecha de grabación: un día de producción real antes del 4 dic [REEMPLAZAR].
-9. Enlace exacto de Worldpanel/Semana/La República antes de publicar la D.
+3. ¿El buñuelo se voltea solo? Si no, se muestra la espumadera.
+4. Utensilios reales de la natilla.
+5. Oficina: novena real de cliente con permiso escrito, o ambientada con 4–6 personas. ¿Quiénes salen? Autorizaciones firmadas.
+6. Aprobar la respuesta sobre sanidad.
+7. Empaque real (¿sticker?), igual que en la I5.
+8. Anticipación mínima para pedir.
+9. Fecha de grabación antes del 4 dic [REEMPLAZAR].
+10. Enlace exacto de Worldpanel, Semana o La República (sin él no se publica la -D).
