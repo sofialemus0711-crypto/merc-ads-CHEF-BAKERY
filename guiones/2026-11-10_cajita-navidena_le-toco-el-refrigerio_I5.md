@@ -108,3 +108,10 @@ CTR de enlace, conversaciones por WhatsApp, costo por conversación; compartidos
 3. Códigos HEX del manual 2026.
 4. Dónde se toma la foto.
 5. Personajes en "usted"/neutro y anuncio en "tú".
+
+## Correcciones de Sofía (24 nov 2026, documento "Cajita Navideña 2026 · Las 3 piezas finales")
+- Se queda la **versión B** ("no sé hacer ni un huevo") como principal: NAV26-CAJ-I5-B.
+- El chat se hace como **imitación real de un chat de celular** (barra superior, burbujas, nombres de colores, horas). Se evita el logo y el nombre de WhatsApp (marca ajena) y se mantiene en pequeño "Chat recreado".
+- La conversación responde a un dolor sin extenderse, para que la gente llegue rápido a la foto de la natilla. Chat final: Mar 1 dic · Jefe Carlos: "La novena del jueves 17 la dirige Juli, con refrigerio y todo" · Juli: "¿Yo? Si yo no sé hacer ni un huevo" · Jue 17 dic · Juli: [FOTO REAL] "Llegaron. Una para cada uno" · Caro: "Ay no, Juli se lució".
+- La foto es de **una sola Cajita Navideña** abierta, de cerca (no 15–20 cajitas). La foto ocupa la mayor parte de la imagen. Las versiones A y C y el carrusel quedan sin usar por ahora.
+- Pendiente: re-evaluar con el evaluador antes de diseñar (cambió la versión principal y la foto).

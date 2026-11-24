@@ -192,3 +192,7 @@ Frío vs tibio no se comparan entre sí (son públicos distintos). En el corte f
 
 Nota: comparte tomas con el V01 (en pausa). Si el V01 sale para el mismo público frío, usar superficies distintas o no publicarlos a la vez.
 Evaluación del corte frío: v1 NO PASA (3,75); v2 PASA (4,05: gancho 4, contenido 4, público 4, organicidad 4, confianza 4, llamado 4, producible 5). Opcional: si en la vista previa "Cajita Navideña · desde $8.500 + impuestos" se lee con dificultad, alargar ese tramo a 3 s (video de 19 s). Para el agente de campañas: no publicar V01 y V02F a la vez al mismo público frío.
+
+## Correcciones de Sofía (24 nov 2026)
+- Por ahora solo se produce el **corte frío V02F**. El corte tibio V02-A queda guardado para cuando se necesite.
+- Material para grabar solo el frío: 6 cajitas (4 con hojuela, 2 con dos buñuelos), repuestos, 6–8 cerradas para la fila, escritorio de oficina para T8 y T9.

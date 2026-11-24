@@ -151,3 +151,19 @@ NAV26-CAJ-V01-A ("la novena olía a esto") · -B (pregunta del olor) · -C (cruj
 8. Anticipación mínima para pedir.
 9. Fecha de grabación antes del 4 dic [REEMPLAZAR].
 10. Enlace exacto de Worldpanel, Semana o La República (sin él no se publica la -D).
+
+## Correcciones de Sofía (24 nov 2026) · v3 en borrador, falta re-evaluar cuando llegue la historia
+- Se quitan los gozos cantados en vivo.
+- Lo principal del video es **la historia real de la mamá de Sofía** sobre la novena en su casa [REEMPLAZAR: confirmar quién pone la voz].
+- Estructura pedida por Sofía: "En mi casa la novena olía a esto" → "La Navidad es una época que todos recordamos" → el evento que le sucedió → "Por eso aquí todo lo hacemos con ese amor y ese espíritu navideño" → "Lleva la Navidad a tu empresa, que se sienta como en casa" → "Escríbenos por WhatsApp".
+
+| Tiempo | Imagen | Voz en off | Texto en pantalla |
+|---|---|---|---|
+| 0–2,5 s | Buñuelo volteándose en el aceite; objeto real de su casa al lado [REEMPLAZAR] | "En mi casa, la novena olía a esto." | En mi casa, la novena olía a esto. |
+| 2,5–4,5 s | Buñuelos saliendo del aceite | "La Navidad es una época que todos recordamos." | (sin texto) |
+| 4,5–14 s | Natilla revolviéndose, cortada en cuadros; hojuela que se parte | [REEMPLAZAR: la historia real, el evento que le sucedió] | [REEMPLAZAR: frases cortas] |
+| 14–18 s | Se arma y se cierra la cajita | "Por eso aquí todo lo hacemos con ese amor y ese espíritu navideño." | Hecho en nuestra cocina de Belén |
+| 18–22 s | Oficina: cajitas de mano en mano; alguien le agradece a quien las pidió | "Lleva la Navidad a tu empresa, que se sienta como en casa." | Que se sienta como en casa |
+| 22–25 s | Cajita abierta y monograma C&B | "Escríbenos por WhatsApp." | Cajita Navideña · desde $8.500 + impuestos / Mínimo 15 · Medellín, Sabaneta y Las Palmas |
+
+Nota del director para la re-evaluación: "La Navidad es una época que todos recordamos" y "con ese amor y ese espíritu navideño" son frases generales (riesgo B1 de publicidad/08). Funcionan si la historia real es muy concreta; si no, se proponen alternativas más habladas a Sofía.
