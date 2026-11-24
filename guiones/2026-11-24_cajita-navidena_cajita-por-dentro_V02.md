@@ -1,4 +1,5 @@
-# Guion de video · "Una cajita por dentro" · NAV26-CAJ-V02-A · v1 · EN EVALUACIÓN
+# Guion de video · "Una cajita por dentro" · NAV26-CAJ-V02-A · v2 · EN EVALUACIÓN 2
+Historial: v1 NO PASA en evaluación 1 (3,45; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–5: cuadro 0 con la comida a la vista, garantía en positivo ("Cuentas exactas"), cierre de quedar bien, sin precio repetido, sin etiquetas, y texto del anuncio neutro igual para A–D.
 Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda6-segundo-video.md), con su cambio: al inicio "así se ve una de nuestras cajitas", el precio desde y el diferenciador. [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
 En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V02 = racional: qué llega, cuánto cuesta y qué se garantiza (nivel 4, tibio).
 
@@ -10,7 +11,7 @@ En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V0
 | Nivel | 4 · producto: necesita ver qué llega, a qué precio y por qué C&B. |
 | Etapa | Consideración o decisión. Pieza directa (regla 14); el precio al inicio filtra (regla 5). |
 | Estructura | #18 Vitrina + #6 Proceso con sonido real (ASMR) + garantía en positivo (#12) |
-| Duración | 20 s |
+| Duración | 21 s |
 | Formato | 9:16, 1080×1920, celular, solo manos y producto, voz de Paula opcional (manda el texto), sonido real |
 | Lanzamiento | 1.ª o 2.ª semana de diciembre, cuando haya público tibio. Se apaga cuando no alcancen a entrar pedidos [REEMPLAZAR: anticipación mínima]. |
 | Código | NAV26-CAJ-V02-A · -B · -C · -D |
@@ -22,46 +23,37 @@ En la campaña: I5 = humor (nivel 2) · V01 = emoción (nivel 1, en pausa) · V0
 4. Encaja con lo que se ve: una cajita completa.
 Variantes: -B (cocina de Belén: verdad, pero diferencia menos) · -C (fecha asegurada: pesa más desde ~10 dic [Hipótesis]) · -D (4,9★ y 203 reseñas: prueba social para tibio, regla 17; revalidar).
 
-## 2. Escena por escena (20 s)
+## 2. Escena por escena (21 s)
 Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar en vista previa). Poppins SemiBold 56–64 px; etiquetas Poppins 40 px. Blanco o marfil con sombra suave, máximo 2 líneas. Lectura ≤ 15 caracteres/s; voz ≤ 3 palabras/s.
 
 | Tiempo | Imagen | Voz de Paula (opcional) | Texto en pantalla (desde el cuadro 0) | Control |
 |---|---|---|---|---|
-| 0,0–3,0 | Cuadro 0 con movimiento en curso: manos abriendo la cajita, tapa a medio camino; sonido del empaque [REEMPLAZAR: material y sticker C&B] | "Así se ve una de nuestras Cajitas Navideñas." (8) | Así se ve una de nuestras Cajitas Navideñas | 14,3 car/s · 2,7 pal/s |
+| 0,0–3,0 | Cuadro 0: la tapa terminando de abrirse, con la natilla y el buñuelo ya a la vista y el sticker C&B en la tapa [REEMPLAZAR: confirmar empaque y sticker]; contenido en la franja central (y 400–1150 px); sonido del empaque | "Así se ve una de nuestras Cajitas Navideñas." (8) | Así se ve una de nuestras Cajitas Navideñas | 14,3 car/s · 2,7 pal/s |
 | 3,0–5,5 | Cenital: cajita abierta con natilla, buñuelo y hojuela tal como llegan | "Desde ocho mil quinientos, más impuestos." (6) | Desde $8.500 + impuestos | 9,6 · 2,4 |
-| 5,5–8,0 | Cerrado: la cuchara toca la natilla, tiembla, sale un pedazo | "Si falta una, la reponemos sin costo." (7) | Si falta una, la reponemos sin costo | 14,4 · 2,8 |
-| 8,0–10,0 | Dos manos parten el buñuelo muy cerca; se ve por dentro | Sin voz: sonido real | Etiqueta: Buñuelo | — |
-| 10,0–12,0 | Una mano parte la hojuela; caen migas | Sin voz: crujido real | Etiqueta: Hojuela | — |
-| 12,0–14,5 | La mano desliza la segunda cajita abierta (natilla + dos buñuelos) al lado. Cenital | "O con dos buñuelos." (4) | O natilla con dos buñuelos | 10,4 · 1,6 |
-| 14,5–17,5 | Las dos cajitas al frente; fila de cajitas cerradas desenfocada al fondo | "Pedido mínimo de quince." (4) | Mínimo 15 · Medellín, Sabaneta y Las Palmas | 14,3 · 1,3 |
-| 17,5–20,0 | Mismo plano, acercamiento lento; monograma C&B pequeño abajo a la derecha | "Escríbenos por WhatsApp." (3) | Desde $8.500 + impuestos / Escríbenos | 13,6 · 1,2 |
+| 5,5–8,5 | Cerrado: la cuchara toca la natilla, tiembla, sale un pedazo; corte a la fila completa de cajitas (ningún plano muestra un hueco) | "Cuentas exactas: si falta una, la reponemos sin costo." (9) | Grande: Cuentas exactas / debajo: Si falta una, la reponemos sin costo | 3 pal/s |
+| 8,5–10,5 | Dos manos parten el buñuelo muy cerca; se ve por dentro | Sin voz: sonido real | (sin texto) | — |
+| 10,5–12,5 | Una mano parte la hojuela; caen migas | Sin voz: crujido real | (sin texto) | — |
+| 12,5–14,5 | La mano desliza la segunda cajita abierta (natilla + dos buñuelos) al lado. Cenital | "O con dos buñuelos." (4) | O natilla con dos buñuelos | 10,4 · 1,6 |
+| 14,5–17,5 | Las dos cajitas al frente; fila de cajitas cerradas desenfocada al fondo | "Desde quince, y nadie se queda sin la suya." (8) | Mínimo 15. Nadie se queda sin la suya. | 12,7 car/s · 2,7 pal/s |
+| 17,5–21,0 | Mismo plano, acercamiento lento; monograma C&B pequeño abajo a la derecha | "Escríbenos por WhatsApp." (3) | Medellín, Sabaneta y Las Palmas · Escríbenos | 12,6 car/s |
 
-Voz: 32 palabras en 20 s, 4 s de sonido solo (8–12 s). Sin voz se entiende igual.
+Voz: ~38 palabras en 21 s, 4 s de sonido solo (8,5–12,5 s). El precio sale una sola vez (3 s) y en el título. Sin voz se entiende igual.
 Música: no. Si se agrega, instrumental muy baja de la biblioteca de Meta.
 Para que no parezca catálogo: manos en movimiento, migas en la mesa, luz de ventana, sonido real, sin planos girando ni fondos de estudio; mesa de madera o mantel beige/marfil.
 No se dice: si se mezclan combinaciones en un pedido [REEMPLAZAR]; nada de sanidad, envío gratis ni tiempos de entrega.
 
-## 3. Variantes del diferenciador (cambian solo 5,5–8,0 s)
+## 3. Variantes del diferenciador (cambian solo 5,5–8,5 s)
 | Código | Voz | Texto | Nota |
 |---|---|---|---|
-| -A (principal) | "Si falta una, la reponemos sin costo." | Si falta una, la reponemos sin costo | Garantía aprobada (04-catálogo) |
+| -A (principal) | "Cuentas exactas: si falta una, la reponemos sin costo." | Cuentas exactas / Si falta una, la reponemos sin costo | Garantía aprobada (04-catálogo) |
 | -B | "La hacemos en nuestra cocina de Belén." | Hecha en nuestra cocina de Belén | Producción propia confirmada (01-contexto); no dice "a mano". [REEMPLAZAR: ¿la hojuela también se hace en Belén? Si no: "La natilla y el buñuelo, de nuestra cocina de Belén"] |
 | -C | "Con el anticipo, tu fecha queda asegurada." | Tu fecha, asegurada con el anticipo | Garantía aprobada (04-catálogo) |
 | -D | "Cuatro coma nueve estrellas en Google." | 4,9 ★ en Google · 203 reseñas | [REVALIDAR: dato de oct 2026]. No se publica sin revalidar. |
 De 0 a 5,5 s es igual en las cuatro: la comparación útil es la retención después de 5,5 s y las conversaciones.
 
-## 4. Texto del anuncio (tú; igual en A–D)
-**Principal V1 (largo):**
-Así llega la Cajita Navideña: natilla, buñuelo y hojuela, o natilla con dos buñuelos.
-Desde $8.500 + impuestos, pedido mínimo de 15.
-Cuentas exactas: si falta una cajita, la reponemos sin costo. Y con el anticipo, tu fecha queda asegurada.
-La hacemos en nuestra cocina de Belén y la llevamos a Medellín, Sabaneta y Las Palmas (el domicilio se cobra según la zona). Llevamos más de 15 años cocinando en Medellín.
-La novena va del 16 al 24 de diciembre. Escríbenos por WhatsApp con cuántos son y qué día.
-
-**Principal V2 (corto):**
-Esto trae la Cajita Navideña. Desde $8.500 + impuestos, mínimo 15.
-Si falta una, la reponemos sin costo. Medellín, Sabaneta y Las Palmas; domicilio según zona.
-Escríbenos por WhatsApp.
+## 4. Texto del anuncio (tú; el MISMO texto neutro en A, B, C y D para que solo cambie el video)
+**Principal:**
+Esto trae la Cajita Navideña: natilla, buñuelo y hojuela, o natilla con dos buñuelos. Desde $8.500 + impuestos, mínimo 15. Medellín, Sabaneta y Las Palmas; domicilio según zona. Escríbenos por WhatsApp con cuántos son y qué día.
 
 **Título:** Cajita Navideña · desde $8.500 + impuestos (alterno: Natilla, buñuelo y hojuela, desde 15 cajitas)
 **Botón:** Enviar mensaje (WhatsApp)
