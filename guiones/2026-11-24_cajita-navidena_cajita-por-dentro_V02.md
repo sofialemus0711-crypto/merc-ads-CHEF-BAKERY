@@ -125,3 +125,66 @@ NAV26-CAJ-V02-A (cuentas exactas) · -B (cocina de Belén) · -C (fecha asegurad
 7. Anticipación mínima para pedir.
 8. Público tibio (dato para el agente de campañas).
 9. Día y persona para grabar, con cajitas frescas.
+
+---
+
+# CORTE PARA PÚBLICO FRÍO · NAV26-CAJ-V02F-A · v1 · EN EVALUACIÓN
+Pedido de Sofía (24 nov): "ajústame el video para público frío y tibio". Decisión del director: **una sola grabación, dos cortes**. El corte de arriba (V02-A, 21 s) queda para **tibio**: precio al inicio, directo (regla 14). Este corte es para **frío**: no debe parecer anuncio, el producto se disfruta primero y el precio va solo al final.
+Diferencias frente al tibio: abre con el sonido y la comida, no con "así se ve… desde $8.500"; pone la cajita en su contexto (escritorio de oficina el día de la novena) para que la persona se vea ahí; el diferenciador se dice como beneficio para quien organiza ("nadie se queda sin la suya"); un solo precio, al final. Se graba el mismo día con 2 tomas extra (T8 y T9).
+Complementa sin repetir: la imagen I5 dice "te tocó el refrigerio" (humor, chat); aquí no hay chat ni "te tocó"; el V01 (en pausa) usa la frase del olor y el recuerdo; aquí no.
+
+## Ficha
+| Campo | Contenido |
+|---|---|
+| Público | Frío: personas de oficina en Medellín, Sabaneta y Las Palmas que no conocen a C&B |
+| Nivel | 2 · problema (la novena de la oficina y qué repartir), con entrada sensorial de nivel 1 |
+| Etapa | Presentación |
+| Estructura | #18 Vitrina + #6 ASMR, con cierre de quedar bien (regla 16) |
+| Duración | 18 s |
+| Código | NAV26-CAJ-V02F-A · -B · -C |
+
+## Escena por escena (18 s)
+| Tiempo | Imagen | Voz de Paula (opcional, baja) | Texto en pantalla (desde el cuadro 0) |
+|---|---|---|---|
+| 0,0–2,5 | Cuadro 0 con la acción en curso: dos manos ya están partiendo un buñuelo muy cerca; se ve el interior | Sin voz: sonido real del buñuelo | Para la novena de la oficina |
+| 2,5–5,0 | La cuchara entra en la natilla, tiembla y sale un pedazo | Sin voz: sonido real | (sigue) |
+| 5,0–7,0 | La hojuela se parte; caen migas | Sin voz: crujido real | (sin texto) |
+| 7,0–10,0 | Escritorio de oficina (T8): la cajita abierta junto al librito de la novena, un pósit y un pocillo liso, luz de ventana; una mano la desliza al centro | "Una para cada uno, lista para repartir." (7) | Una para cada uno, lista para repartir |
+| 10,0–13,0 | Fila de cajitas cerradas sobre una mesa de reuniones (T9); una mano pone la última en su lugar | "Y si falta una, la reponemos." (6) | Nadie se queda sin la suya |
+| 13,0–15,5 | Las dos versiones abiertas, lado a lado (T6/T7) | "Natilla con buñuelo y hojuela, o con dos buñuelos." (9) | Cajita Navideña |
+| 15,5–18,0 | Mismo plano, acercamiento lento; monograma C&B pequeño abajo a la derecha | "Escríbenos por WhatsApp." (3) | Desde $8.500 + impuestos · mínimo 15 / Medellín, Sabaneta y Las Palmas |
+Voz: 25 palabras en 18 s, con 7 s de solo sonido al inicio (lo que detiene el scroll en frío es la comida, no la voz). Sin voz se entiende igual (versión -SV).
+Nota de regla 18: "si falta una, la reponemos" se dice sobre una fila completa; nunca se muestra un hueco.
+
+## Ganchos alternativos (0–2,5 s; el resto igual)
+| Código | Imagen | Texto | Por qué probarlo |
+|---|---|---|---|
+| -A | Buñuelo partiéndose | Para la novena de la oficina | Pone el contexto desde el primer segundo sin sonar a anuncio |
+| -B | Buñuelo partiéndose | Sube el volumen 🔊 | Invita a quedarse por el sonido; formato nativo de Reels [Lectura] |
+| -C | Las tres cosas juntas en la cajita, una mano duda entre ellas | ¿Con cuál empiezas: natilla, buñuelo o hojuela? | Pregunta fácil de contestar: busca comentarios y alcance barato [Lectura] |
+
+## Texto del anuncio (frío, corto, que no suene a anuncio)
+**Principal:**
+Natilla, buñuelo y hojuela, una cajita para cada uno el día de la novena de la oficina.
+Desde $8.500 + impuestos, mínimo 15. Medellín, Sabaneta y Las Palmas; domicilio según zona.
+¿Te tocó organizarla? Escríbenos por WhatsApp con cuántos son y qué día.
+**Título:** Para la novena de la oficina
+**Botón:** Enviar mensaje (WhatsApp)
+**Mensaje sugerido:** "Hola, vi el video de la cajita. Somos ___ personas y la novena es el ___."
+
+## Tomas extra (además de las del corte tibio, mismo día)
+| # | Toma | Ángulo y lente | Cuántas |
+|---|---|---|---|
+| T8 | Escritorio de oficina: cajita abierta, librito de la novena, pósit, pocillo liso, esquina de portátil sin logos; una mano la desliza al centro | 45°, 1x, luz de ventana | 5 |
+| T9 | Fila de cajitas cerradas en una mesa de reuniones; la mano pone la última | 45°, 1x | 4 |
+T4 (buñuelo) se graba arrancando con la acción ya en curso, porque aquí es el cuadro 0. Si no hay oficina, T8 y T9 se hacen en una mesa ambientada como oficina (sin presentarla como cliente).
+
+## Qué se mide
+Frío vs tibio no se comparan entre sí (son públicos distintos). En el corte frío: tasa de gancho, retención 50/75 %, guardados, compartidos, comentarios (gancho -C), conversaciones y costo por conversación. Las personas que vean el corte frío alimentan el público tibio que luego ve el V02-A.
+
+## Base
+- Regla 14 (frío: que no parezca publicidad) y regla 13 (no solo niveles 4–5).
+- Nivel 2: nombrar la situación (novena de la oficina) sin presión (publicidad/03).
+- [Dato] Ninguno de los anuncios activos de "novena empresa refrigerio" le habla a la persona de la oficina: solo apareció 1 (Biblioteca de anuncios, 24 nov; Inv. §5.1).
+- [Hipótesis] La comida partiéndose detiene el scroll mejor que una caja que se abre (evaluación 1 del V02).
+- Regla 16: el cierre "nadie se queda sin la suya" es quien organiza quedando bien.
