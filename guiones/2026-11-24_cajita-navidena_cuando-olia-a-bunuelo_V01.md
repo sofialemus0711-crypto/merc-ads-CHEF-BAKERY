@@ -1,4 +1,5 @@
-# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v2 · EN EVALUACIÓN 2
+# Guion de video · "Cuando olía a buñuelo" · NAV26-CAJ-V01-A · v2.1 · PASA CONDICIONADO (4,00) al recuerdo real de Paula
+Evaluación 2 (24 nov): NO PASA hoy (el centro es [REEMPLAZAR]); PASA condicionado con 4,00 si (1) el recuerdo tiene persona, objeto y acción concretos en 14–18 palabras dichas, (2) T1 queda excelente, (3) el último cartel dura 22,0–24,0 s (aplicado en v2.1: video de 24 s). Cuando llegue el recuerdo se re-evalúa solo el contenido. La -D se reescribió como versión independiente (sección 3b) y se evalúa aparte.
 Concepto #1 aprobado por Sofía el 24 nov 2026 (guiones/2026-11-24_cajita-navidena_conceptos-ronda5-videos.md). [REEMPLAZAR] = por confirmar. Todo es hipótesis (bitácora vacía).
 Historial: v1 NO PASA en evaluación 1 (3,18; gancho 3, contenido 3). v2 aplica los cambios obligatorios 1–4 y 6–8. El cambio 5 (recuerdo real de Paula) sigue pendiente: sin él, la A no se graba y la principal pasa a ser la -D.
 Relación con la imagen I5: la imagen va por humor y nivel 2; este video por emoción y lo hecho a mano, nivel 1; no repite "te tocó", chat ni "una por persona".
@@ -33,9 +34,9 @@ Zona segura: texto entre y = 270 y y = 1250 px, ≥ 65 px a los lados (verificar
 | 17,5–19,0 | Pico: la organizadora de perfil en primer término mira cómo todos abren su cajita; compañeros desenfocados al fondo | Paula: "Para que la oficina también huela a novena." (8, de 17,5 a 20,5) + hojuela y risas | Para que la oficina también huela a novena. |
 | 19,0–20,5 | Final: un compañero le levanta la cajita en señal de gracias; ella sonríe y devuelve el gesto. Sin diálogo | Sigue la frase; ambiente real | (se mantiene) |
 | 20,5–22,0 | Misma toma: ella abre su cajita (no plano de producto) | Paula: "Escríbenos por WhatsApp." (3) | Cajita Navideña · desde $8.500 + impuestos |
-| 22,0–23,0 | Misma toma; monograma C&B pequeño abajo a la derecha, dentro de zona segura. Fin | Ambiente que se apaga | Mínimo 15 · Medellín, Sabaneta y Las Palmas |
+| 22,0–24,0 | Misma toma; monograma C&B pequeño abajo a la derecha, dentro de zona segura. Fin | Ambiente que se apaga | Mínimo 15 / Medellín, Sabaneta y Las Palmas (2 líneas) |
 
-Voz total: 39–43 palabras en 23 s con 5 s sin voz; dentro de ~3 palabras por segundo.
+Duración final: 24 s (corrección de la evaluación 2). Voz total: 39–43 palabras en 24 s con 5 s sin voz; dentro de ~3 palabras por segundo.
 Música: mejor no usarla; si se usa, instrumental de la biblioteca de Meta, 20 dB por debajo de la voz. Gozos cantados en vivo, nada de grabaciones comerciales.
 
 ### Recuerdo de Paula (cambio 5, pendiente; no se inventa)
@@ -53,6 +54,15 @@ EJEMPLO HIPOTÉTICO, NO ES DE PAULA Y NO SE GRABA: "Mi abuela sacaba una olla qu
 | -C | Casi negro; a los 0,3 s crujido y se revela la mano con la hojuela partida | Crujido. Paula: "En mi casa, la novena sonaba así." | Este sonido, en diciembre, es novena. | La escena 10,0–12,5 pasa a T1c con el texto "Natilla, buñuelo y hojuela". |
 | -D | Canasta de buñuelos recién escurridos; una mano ya está cogiendo uno | Paula: "En Medellín comemos más del triple de buñuelo que en Bogotá." (11, 0–3,7 s) | En Medellín comemos más del triple de buñuelo que en Bogotá. (pequeño: Worldpanel, dic 2025) | Recuerdo desde 3,7 s, máximo 16 palabras. No se publica sin el enlace de la fuente. Principal si la A no cumple. |
 
+## 3b. Versión -D independiente (si el recuerdo de Paula no llega) · pendiente de evaluación aparte
+| Tiempo | Imagen | Voz o audio | Texto en pantalla |
+|---|---|---|---|
+| 0,0–3,0 | Canasta de buñuelos recién escurridos; una mano ya está cogiendo uno | Paula: "Medellín come más del triple de buñuelo que Bogotá." (9) | Medellín come más del triple de buñuelo que Bogotá. (2 líneas) · pequeño: Worldpanel, dic 2025 |
+| 3,0–6,5 | Paula de perfil sacando buñuelos con la espumadera | Sonido real de fritura, sin voz | Aquí se fritan uno por uno. [confirmar] · etiqueta: Paula · Chef & Bakery · cocina de Belén |
+| 6,5–10,0 | Natilla revolviéndose y cortada en cuadros | "Blup" real, sin voz | La natilla, revuelta a mano. [confirmar] |
+| 10,0–24,0 | Igual que la versión A (hojuela, armado, gozos, pico con la organizadora, carteles) | Igual | Igual |
+Texto del anuncio -D, primera línea: "Medellín come más del triple de buñuelo que Bogotá. En nuestra cocina de Belén los hacemos [confirmar: a mano] y los llevamos en cajita a la novena de tu oficina." El resto igual que V1. Estimado del evaluador: gancho 4, contenido 3,5–4. No se publica sin el enlace de la fuente.
+
 ## 4. Texto del anuncio (tú)
 **Principal V1:**
 En mi casa, la novena empezaba cuando olía a buñuelo. [REEMPLAZAR: recuerdo real, 1 frase] — Paula, Chef & Bakery
@@ -69,7 +79,7 @@ Escríbenos por WhatsApp con el día de tu novena.
 **Botón:** Enviar mensaje (WhatsApp)
 **Mensaje sugerido:** "Hola, vi el video del buñuelo. ¿Me cuentan de la Cajita Navideña para la novena? Somos ___ personas."
 
-**Respuesta para comentarios sobre sanidad (propuesta; la aprueba Sofía):** "Hola, [nombre]. Te respondemos con la verdad: hoy no tenemos permiso sanitario. Si para tu empresa es un requisito, preferimos que lo sepas desde ya." Nada que lo compense ni dé a entender otra cosa (regla 3). Igual por WhatsApp.
+**Respuesta para comentarios sobre sanidad (propuesta; la aprueba Sofía):** "Hola, [nombre]. Te respondemos con la verdad: hoy no tenemos permiso sanitario. Si para tu empresa es un requisito, preferimos que lo sepas desde ya." Nada que lo compense ni dé a entender otra cosa (regla 3). Igual por WhatsApp. Opción del evaluador (decide Sofía): en público "Te respondemos por mensaje directo con la verdad" y la respuesta completa por mensaje directo.
 
 ## 5. Lista de tomas para celular
 Ajustes: vertical, 4K 30 fps (1080p 60 fps para el aceite), lente 1x (2x en planos muy cerrados, nunca 0,5x), sin filtros, modo retrato ni flash. Bloqueo AE/AF; bajar un poco la exposición en la comida. Limpiar el lente. Trípode a distancia segura del aceite.
