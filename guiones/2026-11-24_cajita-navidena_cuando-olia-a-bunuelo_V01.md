@@ -167,3 +167,14 @@ NAV26-CAJ-V01-A ("la novena olía a esto") · -B (pregunta del olor) · -C (cruj
 | 22–25 s | Cajita abierta y monograma C&B | "Escríbenos por WhatsApp." | Cajita Navideña · desde $8.500 + impuestos / Mínimo 15 · Medellín, Sabaneta y Las Palmas |
 
 Nota del director para la re-evaluación: "La Navidad es una época que todos recordamos" y "con ese amor y ese espíritu navideño" son frases generales (riesgo B1 de publicidad/08). Funcionan si la historia real es muy concreta; si no, se proponen alternativas más habladas a Sofía.
+
+## Guía para conseguir la historia (para Sofía, 26 nov 2026)
+Una buena historia tiene: una persona concreta, un objeto o un olor, algo que pasó (un momento, no "siempre era bonito") y que conecte solo con compartir o con hacerlo a mano. En el video caben ~25–30 palabras de historia (unos 10 s); se graba larga y se corta.
+Tipos que mejor funcionan, en orden de recomendación (todo debe ser real, nada inventado ni exagerado):
+1. Lo que se heredó: una receta, una olla, un truco que pasó de su mamá o abuela a ella y que hoy se usa en C&B. Es el que mejor conecta con "por eso aquí lo hacemos así".
+2. Repartir: llevar natilla y buñuelos a los vecinos, la vecina que siempre llegaba, la casa llena. Conecta con "lleva la Navidad a tu empresa".
+3. El turno o el oficio: quién revolvía la paila, cuántas horas, a quién le tocaba qué.
+4. La travesura: robarse buñuelos antes de la novena, comerse la natilla de la olla.
+5. El año que casi no se pudo y se salvó: se fue la luz, la natilla no cuajaba y la familia lo resolvió junta.
+Evitar: historias tristes o de pérdidas muy fuertes (no caben en 25 s de anuncio), frases generales sin hecho concreto, y nada sobre permisos o certificaciones.
+Cómo grabarla: nota de voz con el celular, en un cuarto sin eco; que la cuente como a una amiga, sin leer; 1–3 minutos libres. Fecha límite sugerida: antes del 1 dic para grabar el video antes del 4 dic.
